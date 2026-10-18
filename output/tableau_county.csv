@@ -1,0 +1,627 @@
+county,fips,state,small_county_pool,births_all,pct_medicaid,pct_self_pay,pct_no_pnc,pct_early_pnc,pct_late_pnc,avg_ga_weeks,avg_bw_g,sd_ga_weeks,pct_not_early_pnc,county_type,fips5,county_name,mappable,risk_group,medicaid_quartile,no_early_care_quartile
+"Ada County, ID",16001,ID,0,5275,23.81,6.12,0.23,89.82,0.97,38.618,3326.0,1.895,10.18,Larger county (100k+),16001,Ada County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Adams County, CO",8001,CO,0,6459,44.22,4.24,2.03,77.06,4.5,38.36,3164.3,1.923,22.94,Larger county (100k+),08001,Adams County,Yes,Neither,Q3,Q3
+"Adams County, PA",42001,PA,0,758,26.87,3.74,,86.68,,38.495,3313.5,1.881,13.32,Larger county (100k+),42001,Adams County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Aiken County, SC",45003,SC,0,1864,45.16,1.94,4.48,69.4,6.91,38.3,3226.4,1.874,30.6,Larger county (100k+),45003,Aiken County,Yes,Low early care only,Q3,Q4 (highest)
+"Alachua County, FL",12001,FL,0,2500,36.2,5.84,1.14,73.13,6.9,38.297,3195.7,2.161,26.87,Larger county (100k+),12001,Alachua County,Yes,Neither,Q2,Q3
+"Alamance County, NC",37001,NC,0,1966,40.03,10.17,3.61,71.62,4.27,38.319,3242.4,2.187,28.38,Larger county (100k+),37001,Alamance County,Yes,Low early care only,Q3,Q4 (highest)
+"Alameda County, CA",6001,CA,0,15966,22.51,1.44,0.98,87.68,3.1,38.524,3238.2,1.912,12.32,Larger county (100k+),06001,Alameda County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Albany County, NY",36001,NY,0,2731,41.74,,1.0,77.6,4.14,38.305,3222.0,2.253,22.4,Larger county (100k+),36001,Albany County,Yes,Neither,Q3,Q3
+"Alexandria city, VA",51510,VA,0,2256,27.53,,2.25,78.47,4.32,38.572,3278.6,1.879,21.53,Larger county (100k+),51510,Alexandria city,Yes,Neither,Q1 (lowest),Q3
+"Allegan County, MI",26005,MI,0,1151,21.29,3.39,0.96,87.05,1.04,38.405,3357.0,2.149,12.95,Larger county (100k+),26005,Allegan County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Allegheny County, PA",42003,PA,0,11429,28.45,3.24,2.78,78.37,5.05,38.345,3222.6,2.142,21.63,Larger county (100k+),42003,Allegheny County,Yes,Neither,Q1 (lowest),Q3
+"Allen County, IN",18003,IN,0,5226,43.07,4.99,2.25,71.67,3.83,38.278,3252.1,2.05,28.33,Larger county (100k+),18003,Allen County,Yes,Low early care only,Q3,Q4 (highest)
+"Allen County, OH",39003,OH,0,1150,44.78,2.43,,85.39,1.04,38.155,3224.1,2.04,14.61,Larger county (100k+),39003,Allen County,Yes,Neither,Q3,Q1 (lowest)
+"Anchorage Borough, AK",2020,AK,0,3427,32.71,2.98,0.93,79.38,4.08,38.432,3337.2,1.961,20.62,Larger county (100k+),02020,Anchorage Borough,Yes,Neither,Q2,Q2
+"Anderson County, SC",45007,SC,0,2253,42.79,3.91,1.11,84.07,1.55,38.108,3236.2,2.17,15.93,Larger county (100k+),45007,Anderson County,Yes,Neither,Q3,Q1 (lowest)
+"Androscoggin County, ME",23001,ME,0,1066,56.19,2.06,,78.99,4.97,38.436,3279.3,2.001,21.01,Larger county (100k+),23001,Androscoggin County,Yes,High Medicaid only,Q4 (highest),Q2
+"Anne Arundel County, MD",24003,MD,0,6670,31.62,0.85,0.74,84.48,2.06,38.34,3282.6,2.124,15.52,Larger county (100k+),24003,Anne Arundel County,Yes,Neither,Q2,Q1 (lowest)
+"Anoka County, MN",27003,MN,0,3892,32.25,1.98,0.36,84.2,2.74,38.498,3309.0,2.099,15.8,Larger county (100k+),27003,Anoka County,Yes,Neither,Q2,Q1 (lowest)
+"Arapahoe County, CO",8005,CO,0,7645,40.44,5.63,2.36,76.28,5.27,38.34,3154.8,2.173,23.72,Larger county (100k+),08005,Arapahoe County,Yes,Neither,Q3,Q3
+"Arlington County, VA",51013,VA,0,2295,20.04,0.48,0.77,73.25,6.9,38.685,3331.4,1.686,26.75,Larger county (100k+),51013,Arlington County,Yes,Neither,Q1 (lowest),Q3
+"Ascension Parish, LA",22005,LA,0,1477,45.77,,,70.5,5.12,37.822,3147.4,2.503,29.5,Larger county (100k+),22005,Ascension Parish,Yes,Low early care only,Q3,Q4 (highest)
+"Ashtabula County, OH",39007,OH,0,839,45.77,13.47,9.18,57.57,2.74,38.26,3263.7,1.93,42.43,Larger county (100k+),39007,Ashtabula County,Yes,Low early care only,Q3,Q4 (highest)
+"Atlantic County, NJ",34001,NJ,0,2667,40.72,0.9,1.46,76.83,4.27,38.508,3270.1,1.915,23.17,Larger county (100k+),34001,Atlantic County,Yes,Neither,Q3,Q3
+"Baldwin County, AL",1003,AL,0,2679,36.88,1.9,0.71,76.19,4.89,38.11,3244.3,2.044,23.81,Larger county (100k+),01003,Baldwin County,Yes,Neither,Q2,Q3
+"Baltimore County, MD",24005,MD,0,8834,47.23,1.26,1.42,76.6,3.41,38.238,3214.2,2.173,23.4,Larger county (100k+),24005,Baltimore County,Yes,Neither,Q3,Q3
+"Baltimore city, MD",24510,MD,0,6942,61.9,1.61,2.73,68.97,5.29,38.099,3128.7,2.362,31.03,Larger county (100k+),24510,Baltimore city,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Barnstable County, MA",25001,MA,0,1406,37.55,,1.14,85.7,4.41,38.647,3327.6,1.883,14.3,Larger county (100k+),25001,Barnstable County,Yes,Neither,Q2,Q1 (lowest)
+"Bartow County, GA",13015,GA,0,1442,41.4,6.8,5.41,77.6,1.66,38.393,3278.5,2.223,22.4,Larger county (100k+),13015,Bartow County,Yes,Neither,Q3,Q3
+"Bay County, FL",12005,FL,0,2144,50.84,0.61,4.18,64.96,5.69,38.275,3264.6,2.11,35.04,Larger county (100k+),12005,Bay County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Bay County, MI",26017,MI,0,815,44.54,1.23,,87.56,1.28,38.442,3306.1,1.855,12.44,Larger county (100k+),26017,Bay County,Yes,Neither,Q3,Q1 (lowest)
+"Beaufort County, SC",45013,SC,0,1822,43.47,3.46,1.1,67.51,5.16,38.439,3285.5,1.834,32.49,Larger county (100k+),45013,Beaufort County,Yes,Low early care only,Q3,Q4 (highest)
+"Beaver County, PA",42007,PA,0,1419,30.41,2.03,2.65,80.9,3.45,38.329,3275.1,2.071,19.1,Larger county (100k+),42007,Beaver County,Yes,Neither,Q2,Q2
+"Bell County, TX",48027,TX,0,5877,53.66,5.04,3.26,67.42,5.64,38.103,3225.1,2.145,32.58,Larger county (100k+),48027,Bell County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Benton County, AR",5007,AR,0,3958,23.14,9.58,1.48,72.71,8.35,38.333,3283.0,1.863,27.29,Larger county (100k+),05007,Benton County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Benton County, WA",53005,WA,0,2556,24.53,0.84,1.83,74.17,6.36,38.487,3340.4,2.1,25.83,Larger county (100k+),53005,Benton County,Yes,Neither,Q1 (lowest),Q3
+"Bergen County, NJ",34003,NJ,0,8967,18.94,4.81,0.91,82.28,3.66,38.366,3238.1,1.871,17.72,Larger county (100k+),34003,Bergen County,Yes,Neither,Q1 (lowest),Q2
+"Berkeley County, SC",45015,SC,0,3223,40.55,1.77,1.43,77.44,4.59,38.104,3216.6,2.094,22.56,Larger county (100k+),45015,Berkeley County,Yes,Neither,Q3,Q3
+"Berkeley County, WV",54003,WV,0,1498,32.98,3.6,1.0,77.3,4.01,38.357,3289.3,1.916,22.7,Larger county (100k+),54003,Berkeley County,Yes,Neither,Q2,Q3
+"Berks County, PA",42011,PA,0,4480,38.7,10.67,0.27,84.44,2.08,38.437,3289.3,2.114,15.56,Larger county (100k+),42011,Berks County,Yes,Neither,Q2,Q1 (lowest)
+"Berkshire County, MA",25003,MA,0,806,7.07,,,86.72,3.85,38.259,3271.7,2.077,13.28,Larger county (100k+),25003,Berkshire County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Bernalillo County, NM",35001,NM,0,6330,47.5,7.3,4.78,76.32,4.43,38.315,3149.5,2.028,23.68,Larger county (100k+),35001,Bernalillo County,Yes,High Medicaid only,Q4 (highest),Q3
+"Berrien County, MI",26021,MI,0,1434,45.68,1.53,2.37,74.62,4.95,38.389,3243.2,2.135,25.38,Larger county (100k+),26021,Berrien County,Yes,Neither,Q3,Q3
+"Bexar County, TX",48029,TX,0,26751,52.54,5.79,2.12,71.52,13.11,38.101,3203.6,2.22,28.48,Larger county (100k+),48029,Bexar County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Bibb County, GA",13021,GA,0,1947,57.73,6.42,2.82,67.9,3.7,37.815,3065.7,2.284,32.1,Larger county (100k+),13021,Bibb County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Black Hawk County, IA",19013,IA,0,1462,50.62,2.26,1.16,78.52,3.35,38.353,3285.5,1.991,21.48,Larger county (100k+),19013,Black Hawk County,Yes,High Medicaid only,Q4 (highest),Q3
+"Blair County, PA",42013,PA,0,968,44.42,5.68,,86.88,1.24,38.604,3294.0,2.139,13.12,Larger county (100k+),42013,Blair County,Yes,Neither,Q3,Q1 (lowest)
+"Blount County, TN",47009,TN,0,1300,43.31,1.23,1.08,82.69,0.77,38.32,3318.7,1.789,17.31,Larger county (100k+),47009,Blount County,Yes,Neither,Q3,Q2
+"Bonneville County, ID",16019,ID,0,1818,30.47,4.68,,81.96,3.47,38.227,3228.9,1.832,18.04,Larger county (100k+),16019,Bonneville County,Yes,Neither,Q2,Q2
+"Boone County, KY",21015,KY,0,1627,28.31,8.42,6.52,80.52,0.8,38.224,3302.9,1.933,19.48,Larger county (100k+),21015,Boone County,Yes,Neither,Q1 (lowest),Q2
+"Boone County, MO",29019,MO,0,1828,31.89,3.17,,84.03,1.37,38.168,3269.3,2.104,15.97,Larger county (100k+),29019,Boone County,Yes,Neither,Q2,Q1 (lowest)
+"Bossier Parish, LA",22015,LA,0,1428,43.21,0.77,1.36,74.55,3.36,37.848,3151.5,2.235,25.45,Larger county (100k+),22015,Bossier Parish,Yes,Neither,Q3,Q3
+"Boulder County, CO",8013,CO,0,2363,26.15,2.96,0.81,85.81,3.09,38.59,3230.5,2.009,14.19,Larger county (100k+),08013,Boulder County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Brazoria County, TX",48039,TX,0,4684,41.57,1.83,1.51,70.14,7.26,37.995,3216.7,2.087,29.86,Larger county (100k+),48039,Brazoria County,Yes,Low early care only,Q3,Q4 (highest)
+"Brazos County, TX",48041,TX,0,2580,45.78,3.72,1.34,69.59,5.65,38.137,3237.0,2.07,30.41,Larger county (100k+),48041,Brazos County,Yes,Low early care only,Q3,Q4 (highest)
+"Brevard County, FL",12009,FL,0,5405,35.49,5.52,2.41,70.39,6.16,38.267,3257.2,2.042,29.61,Larger county (100k+),12009,Brevard County,Yes,Low early care only,Q2,Q4 (highest)
+"Bristol County, MA",25005,MA,0,5655,40.09,,0.81,80.29,3.06,38.434,3241.5,2.014,19.71,Larger county (100k+),25005,Bristol County,Yes,Neither,Q3,Q2
+"Bronx County, NY",36005,NY,0,16247,78.78,0.8,2.45,63.69,10.19,38.255,3144.5,2.14,36.31,Larger county (100k+),36005,Bronx County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Broome County, NY",36007,NY,0,1641,50.7,,1.22,80.2,3.23,38.429,3267.5,1.896,19.8,Larger county (100k+),36007,Broome County,Yes,High Medicaid only,Q4 (highest),Q2
+"Broward County, FL",12011,FL,0,20068,31.57,8.48,4.91,66.06,7.96,38.172,3181.7,2.245,33.94,Larger county (100k+),12011,Broward County,Yes,Low early care only,Q2,Q4 (highest)
+"Brown County, WI",55009,WI,0,2841,32.42,1.02,,87.28,2.37,38.282,3297.7,2.159,12.72,Larger county (100k+),55009,Brown County,Yes,Neither,Q2,Q1 (lowest)
+"Brunswick County, NC",37019,NC,0,1210,37.02,5.79,,82.56,1.07,38.376,3286.9,2.146,17.44,Larger county (100k+),37019,Brunswick County,Yes,Neither,Q2,Q2
+"Bucks County, PA",42017,PA,0,5341,19.32,1.41,0.59,83.02,4.05,38.506,3317.8,1.894,16.98,Larger county (100k+),42017,Bucks County,Yes,Neither,Q1 (lowest),Q2
+"Buncombe County, NC",37021,NC,0,2225,48.94,2.52,1.3,90.38,0.94,38.332,3248.0,2.001,9.62,Larger county (100k+),37021,Buncombe County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Burlington County, NJ",34005,NJ,0,4496,20.97,1.56,1.0,83.85,3.0,38.494,3274.9,1.973,16.15,Larger county (100k+),34005,Burlington County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Butler County, OH",39017,OH,0,4156,38.07,9.77,1.44,76.11,4.6,38.217,3256.8,2.074,23.89,Larger county (100k+),39017,Butler County,Yes,Neither,Q2,Q3
+"Butler County, PA",42019,PA,0,1716,17.89,1.17,1.82,84.09,1.59,38.508,3315.2,1.845,15.91,Larger county (100k+),42019,Butler County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Butte County, CA",6007,CA,0,1906,52.73,1.05,,80.7,2.0,38.566,3308.4,1.944,19.3,Larger county (100k+),06007,Butte County,Yes,High Medicaid only,Q4 (highest),Q2
+"Cabarrus County, NC",37025,NC,0,2665,31.93,8.44,2.66,82.55,1.58,38.28,3244.4,2.103,17.45,Larger county (100k+),37025,Cabarrus County,Yes,Neither,Q2,Q2
+"Cache County, UT",49005,UT,0,1931,13.52,8.03,0.62,89.54,,38.311,3274.0,1.919,10.46,Larger county (100k+),49005,Cache County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Caddo Parish, LA",22017,LA,0,2481,60.86,1.61,1.98,68.26,4.57,37.629,3041.0,2.5,31.74,Larger county (100k+),22017,Caddo Parish,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Calcasieu Parish, LA",22019,LA,0,2465,63.33,1.05,2.39,84.94,1.44,37.827,3141.6,2.318,15.06,Larger county (100k+),22019,Calcasieu Parish,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Calhoun County, AL",1015,AL,0,1187,58.89,,5.98,73.29,3.71,38.177,3216.3,2.112,26.71,Larger county (100k+),01015,Calhoun County,Yes,High Medicaid only,Q4 (highest),Q3
+"Calhoun County, MI",26025,MI,0,1385,48.52,1.08,3.1,75.67,2.74,38.447,3281.5,2.159,24.33,Larger county (100k+),26025,Calhoun County,Yes,High Medicaid only,Q4 (highest),Q3
+"Cambria County, PA",42021,PA,0,1026,46.74,,1.17,89.18,1.17,38.249,3247.5,1.813,10.82,Larger county (100k+),42021,Cambria County,Yes,Neither,Q3,Q1 (lowest)
+"Camden County, NJ",34007,NJ,0,5807,38.4,2.19,2.69,79.11,3.72,38.342,3228.5,2.255,20.89,Larger county (100k+),34007,Camden County,Yes,Neither,Q2,Q2
+"Cameron County, TX",48061,TX,0,5783,58.32,12.49,3.01,74.98,4.74,38.022,3193.0,2.041,25.02,Larger county (100k+),48061,Cameron County,Yes,High Medicaid only,Q4 (highest),Q3
+"Canadian County, OK",40017,OK,0,2208,29.08,1.54,0.64,85.9,1.7,38.191,3288.3,1.896,14.1,Larger county (100k+),40017,Canadian County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Canyon County, ID",16027,ID,0,3497,32.14,9.38,0.64,84.93,1.56,38.425,3298.4,2.112,15.07,Larger county (100k+),16027,Canyon County,Yes,Neither,Q2,Q1 (lowest)
+"Carroll County, GA",13045,GA,0,1510,40.99,6.16,5.23,51.52,3.64,38.233,3240.9,2.297,48.48,Larger county (100k+),13045,Carroll County,Yes,Low early care only,Q3,Q4 (highest)
+"Carroll County, MD",24013,MD,0,1569,22.5,0.89,,89.55,0.7,38.464,3351.7,1.917,10.45,Larger county (100k+),24013,Carroll County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Cass County, ND",38017,ND,0,2292,22.13,1.71,,90.65,,38.424,3331.2,1.94,9.35,Larger county (100k+),38017,Cass County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Catawba County, NC",37035,NC,0,1643,45.34,5.9,2.25,80.77,4.02,38.27,3248.1,2.192,19.23,Larger county (100k+),37035,Catawba County,Yes,Neither,Q3,Q2
+"Cecil County, MD",24015,MD,0,1057,40.02,3.22,1.11,83.4,,38.25,3299.1,2.29,16.6,Larger county (100k+),24015,Cecil County,Yes,Neither,Q3,Q2
+"Centre County, PA",42027,PA,0,936,15.98,13.82,,80.56,3.74,38.865,3396.8,1.585,19.44,Larger county (100k+),42027,Centre County,Yes,Neither,Q1 (lowest),Q2
+"Champaign County, IL",17019,IL,0,1816,45.21,0.55,,79.85,3.08,38.176,3218.6,2.12,20.15,Larger county (100k+),17019,Champaign County,Yes,Neither,Q3,Q2
+"Charles County, MD",24017,MD,0,1624,34.67,0.8,1.13,78.9,2.83,38.343,3219.7,2.068,21.1,Larger county (100k+),24017,Charles County,Yes,Neither,Q2,Q3
+"Charleston County, SC",45019,SC,0,5027,33.78,2.21,1.67,79.27,3.88,38.234,3212.5,1.985,20.73,Larger county (100k+),45019,Charleston County,Yes,Neither,Q2,Q2
+"Charlotte County, FL",12015,FL,0,1158,46.46,4.32,1.79,57.41,8.04,38.279,3249.2,2.215,42.59,Larger county (100k+),12015,Charlotte County,Yes,Low early care only,Q3,Q4 (highest)
+"Chatham County, GA",13051,GA,0,3638,37.82,7.34,16.63,61.56,3.29,37.92,3122.2,2.266,38.44,Larger county (100k+),13051,Chatham County,Yes,Low early care only,Q2,Q4 (highest)
+"Chautauqua County, NY",36013,NY,0,1035,42.04,5.75,6.15,78.75,,38.377,3259.7,1.98,21.25,Larger county (100k+),36013,Chautauqua County,Yes,Neither,Q3,Q3
+"Cherokee County, GA",13057,GA,0,3143,22.24,10.37,6.49,75.85,3.6,38.422,3312.2,1.983,24.15,Larger county (100k+),13057,Cherokee County,Yes,Neither,Q1 (lowest),Q3
+"Chesapeake city, VA",51550,VA,0,2449,30.91,1.59,0.49,87.56,0.49,38.372,3282.1,2.009,12.44,Larger county (100k+),51550,Chesapeake city,Yes,Neither,Q2,Q1 (lowest)
+"Chester County, PA",42029,PA,0,5402,16.99,7.91,0.3,81.99,3.5,38.627,3339.7,1.908,18.01,Larger county (100k+),42029,Chester County,Yes,Neither,Q1 (lowest),Q2
+"Chesterfield County, VA",51041,VA,0,4054,38.36,1.83,1.67,83.22,2.11,38.286,3248.7,2.136,16.78,Larger county (100k+),51041,Chesterfield County,Yes,Neither,Q2,Q2
+"Chittenden County, VT",50007,VT,0,1193,25.23,1.17,,91.62,,38.716,3348.8,1.957,8.38,Larger county (100k+),50007,Chittenden County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Citrus County, FL",12017,FL,0,958,59.39,1.57,2.04,55.91,5.59,38.278,3273.6,2.176,44.09,Larger county (100k+),12017,Citrus County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Clackamas County, OR",41005,OR,0,3674,32.8,1.58,0.99,86.39,2.2,38.623,3351.0,1.958,13.61,Larger county (100k+),41005,Clackamas County,Yes,Neither,Q2,Q1 (lowest)
+"Clark County, IN",18019,IN,0,1436,38.79,1.18,0.97,86.0,1.18,38.22,3308.1,2.139,14.0,Larger county (100k+),18019,Clark County,Yes,Neither,Q2,Q1 (lowest)
+"Clark County, NV",32003,NV,0,23999,44.14,2.56,5.8,79.42,2.4,38.161,3181.6,2.084,20.58,Larger county (100k+),32003,Clark County,Yes,Neither,Q3,Q2
+"Clark County, OH",39023,OH,0,1663,39.81,10.88,4.99,63.02,4.39,38.033,3205.5,2.449,36.98,Larger county (100k+),39023,Clark County,Yes,Low early care only,Q3,Q4 (highest)
+"Clark County, WA",53011,WA,0,5594,36.55,1.23,0.79,77.51,3.14,38.626,3310.3,2.053,22.49,Larger county (100k+),53011,Clark County,Yes,Neither,Q2,Q3
+"Clarke County, GA",13059,GA,0,1224,43.71,6.29,,75.35,2.58,37.982,3162.6,2.265,24.65,Larger county (100k+),13059,Clarke County,Yes,Neither,Q3,Q3
+"Clay County, FL",12019,FL,0,2213,35.49,1.32,3.84,60.91,4.99,38.209,3245.1,2.233,39.09,Larger county (100k+),12019,Clay County,Yes,Low early care only,Q2,Q4 (highest)
+"Clay County, MO",29047,MO,0,2855,27.22,3.71,0.71,81.59,2.41,38.339,3287.9,1.926,18.41,Larger county (100k+),29047,Clay County,Yes,Neither,Q1 (lowest),Q2
+"Clayton County, GA",13063,GA,0,3106,62.33,10.66,16.57,59.27,5.07,38.049,3069.6,2.436,40.73,Larger county (100k+),13063,Clayton County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Clermont County, OH",39025,OH,0,2167,28.15,3.32,,81.77,1.2,38.287,3300.0,2.022,18.23,Larger county (100k+),39025,Clermont County,Yes,Neither,Q1 (lowest),Q2
+"Cleveland County, OK",40027,OK,0,2583,35.77,2.67,0.47,81.69,1.95,38.146,3250.6,1.938,18.31,Larger county (100k+),40027,Cleveland County,Yes,Neither,Q2,Q2
+"Cobb County, GA",13067,GA,0,8725,33.74,7.11,6.45,69.07,5.15,38.287,3211.5,2.157,30.93,Larger county (100k+),13067,Cobb County,Yes,Low early care only,Q2,Q4 (highest)
+"Cochise County, AZ",4003,AZ,0,1073,51.54,4.66,6.15,61.32,6.52,38.423,3210.9,2.008,38.68,Larger county (100k+),04003,Cochise County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Coconino County, AZ",4005,AZ,0,1182,49.41,5.08,0.95,75.39,4.42,38.529,3223.0,1.86,24.61,Larger county (100k+),04005,Coconino County,Yes,High Medicaid only,Q4 (highest),Q3
+"Collier County, FL",12021,FL,0,3453,33.6,16.86,2.73,59.72,8.44,38.415,3262.5,2.185,40.28,Larger county (100k+),12021,Collier County,Yes,Low early care only,Q2,Q4 (highest)
+"Collin County, TX",48085,TX,0,13621,18.32,6.07,1.98,78.51,3.69,38.317,3242.4,1.976,21.49,Larger county (100k+),48085,Collin County,Yes,Neither,Q1 (lowest),Q3
+"Columbia County, GA",13073,GA,0,1579,28.44,2.41,6.65,63.9,4.75,38.445,3271.5,1.912,36.1,Larger county (100k+),13073,Columbia County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Columbiana County, OH",39029,OH,0,868,47.24,5.99,,88.82,,38.085,3261.7,2.158,11.18,Larger county (100k+),39029,Columbiana County,Yes,Neither,Q3,Q1 (lowest)
+"Comal County, TX",48091,TX,0,2132,28.75,10.0,0.94,79.12,4.43,38.25,3283.4,1.934,20.88,Larger county (100k+),48091,Comal County,Yes,Neither,Q1 (lowest),Q2
+"Comanche County, OK",40031,OK,0,1486,46.34,,0.89,67.97,8.02,38.241,3256.8,2.006,32.03,Larger county (100k+),40031,Comanche County,Yes,Low early care only,Q3,Q4 (highest)
+"Contra Costa County, CA",6013,CA,0,10815,17.61,0.86,0.35,88.38,2.75,38.45,3269.9,1.943,11.62,Larger county (100k+),06013,Contra Costa County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Cook County, IL",17031,IL,0,51184,45.86,1.21,2.53,72.45,6.18,38.307,3221.4,2.063,27.55,Larger county (100k+),17031,Cook County,Yes,Low early care only,Q3,Q4 (highest)
+"Coweta County, GA",13077,GA,0,1705,31.79,7.1,3.11,77.77,1.41,38.075,3224.1,2.208,22.23,Larger county (100k+),13077,Coweta County,Yes,Neither,Q2,Q3
+"Cowlitz County, WA",53015,WA,0,1163,45.49,0.86,0.96,80.24,2.61,38.497,3312.5,1.974,19.76,Larger county (100k+),53015,Cowlitz County,Yes,Neither,Q3,Q2
+"Craven County, NC",37049,NC,0,1208,34.77,2.4,1.41,74.92,3.81,38.235,3245.3,2.227,25.08,Larger county (100k+),37049,Craven County,Yes,Neither,Q2,Q3
+"Cumberland County, ME",23005,ME,0,2599,29.32,1.5,,86.12,3.32,38.431,3294.6,1.936,13.88,Larger county (100k+),23005,Cumberland County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Cumberland County, NC",37051,NC,0,5041,46.38,2.34,2.28,70.38,4.17,38.244,3186.2,2.29,29.62,Larger county (100k+),37051,Cumberland County,Yes,Low early care only,Q3,Q4 (highest)
+"Cumberland County, NJ",34011,NJ,0,1741,65.82,1.84,2.53,65.02,2.93,38.293,3201.5,2.124,34.98,Larger county (100k+),34011,Cumberland County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Cumberland County, PA",42041,PA,0,2533,30.68,6.75,,81.48,2.93,38.608,3308.6,1.883,18.52,Larger county (100k+),42041,Cumberland County,Yes,Neither,Q2,Q2
+"Cuyahoga County, OH",39035,OH,0,12373,41.44,4.32,1.5,77.94,5.11,38.059,3168.6,2.364,22.06,Larger county (100k+),39035,Cuyahoga County,Yes,Neither,Q3,Q3
+"Dakota County, MN",27037,MN,0,4682,31.4,2.11,0.3,83.47,2.32,38.465,3312.7,1.915,16.53,Larger county (100k+),27037,Dakota County,Yes,Neither,Q2,Q2
+"Dallas County, TX",48113,TX,0,36469,48.16,11.05,6.05,56.31,9.2,38.381,3232.2,2.157,43.69,Larger county (100k+),48113,Dallas County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Dane County, WI",55025,WI,0,5360,26.81,1.08,0.21,88.46,1.29,38.472,3291.2,1.826,11.54,Larger county (100k+),55025,Dane County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Dauphin County, PA",42043,PA,0,3157,45.83,5.51,1.15,77.56,4.76,38.422,3233.6,2.165,22.44,Larger county (100k+),42043,Dauphin County,Yes,Neither,Q3,Q3
+"Davidson County, NC",37057,NC,0,1778,45.56,4.95,4.33,75.87,4.78,38.139,3229.2,2.173,24.13,Larger county (100k+),37057,Davidson County,Yes,Neither,Q3,Q3
+"Davidson County, TN",47037,TN,0,10574,42.74,3.02,2.79,69.5,6.64,38.34,3235.0,2.167,30.5,Larger county (100k+),47037,Davidson County,Yes,Low early care only,Q3,Q4 (highest)
+"Davis County, UT",49011,UT,0,4538,12.45,5.66,0.76,82.7,4.31,38.2,3245.2,2.014,17.3,Larger county (100k+),49011,Davis County,Yes,Neither,Q1 (lowest),Q2
+"DeKalb County, GA",13089,GA,0,9419,41.49,12.94,9.2,72.23,4.84,38.271,3155.2,2.175,27.77,Larger county (100k+),13089,DeKalb County,Yes,Low early care only,Q3,Q4 (highest)
+"DeKalb County, IL",17037,IL,0,948,41.03,,,86.71,1.16,38.272,3278.6,2.084,13.29,Larger county (100k+),17037,DeKalb County,Yes,Neither,Q3,Q1 (lowest)
+"DeSoto County, MS",28033,MS,0,2041,39.69,3.18,2.74,73.74,1.67,38.163,3192.9,2.092,26.26,Larger county (100k+),28033,DeSoto County,Yes,Neither,Q3,Q3
+"Delaware County, IN",18035,IN,0,994,54.53,1.01,,88.13,1.01,37.892,3247.9,2.366,11.87,Larger county (100k+),18035,Delaware County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Delaware County, OH",39041,OH,0,2186,10.48,3.16,0.55,89.75,1.7,38.354,3296.7,1.978,10.25,Larger county (100k+),39041,Delaware County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Delaware County, PA",42045,PA,0,6036,33.63,0.27,1.24,78.34,4.69,38.386,3250.3,2.041,21.66,Larger county (100k+),42045,Delaware County,Yes,Neither,Q2,Q3
+"Denton County, TX",48121,TX,0,12038,22.32,5.86,1.74,74.75,4.44,38.296,3254.4,1.998,25.25,Larger county (100k+),48121,Denton County,Yes,Neither,Q1 (lowest),Q3
+"Denver County, CO",8031,CO,0,9284,43.48,2.76,2.82,75.34,5.32,38.357,3146.9,2.108,24.66,Larger county (100k+),08031,Denver County,Yes,Neither,Q3,Q3
+"Deschutes County, OR",41017,OR,0,1885,40.16,2.76,0.7,88.06,2.37,38.642,3315.5,1.895,11.94,Larger county (100k+),41017,Deschutes County,Yes,Neither,Q3,Q1 (lowest)
+"District of Columbia, DC",11001,DC,0,7528,45.35,0.89,4.59,71.89,5.83,38.27,3177.2,2.312,28.11,Larger county (100k+),11001,District of Columbia,Yes,Low early care only,Q3,Q4 (highest)
+"Dona Ana County, NM",35013,NM,0,2461,55.63,6.29,3.06,66.14,7.59,38.23,3173.3,2.009,33.86,Larger county (100k+),35013,Dona Ana County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Dorchester County, SC",45035,SC,0,2018,42.37,0.55,0.94,75.17,5.2,38.108,3214.5,2.053,24.83,Larger county (100k+),45035,Dorchester County,Yes,Neither,Q3,Q3
+"Douglas County, CO",8035,CO,0,4017,10.38,2.15,0.61,88.69,1.78,38.475,3195.7,1.803,11.31,Larger county (100k+),08035,Douglas County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Douglas County, GA",13097,GA,0,1578,52.22,2.41,5.77,61.28,5.01,38.141,3145.6,2.087,38.72,Larger county (100k+),13097,Douglas County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Douglas County, KS",20045,KS,0,895,27.37,5.81,,92.63,,38.315,3284.4,2.061,7.37,Larger county (100k+),20045,Douglas County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Douglas County, NE",31055,NE,0,8031,43.95,3.91,2.16,78.09,3.04,38.096,3228.4,2.034,21.91,Larger county (100k+),31055,Douglas County,Yes,Neither,Q3,Q3
+"Douglas County, OR",41019,OR,0,873,61.17,1.26,1.49,91.29,,38.599,3340.6,1.933,8.71,Larger county (100k+),41019,Douglas County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"DuPage County, IL",17043,IL,0,9435,25.62,0.84,0.42,80.24,3.55,38.372,3290.1,1.973,19.76,Larger county (100k+),17043,DuPage County,Yes,Neither,Q1 (lowest),Q2
+"Durham County, NC",37063,NC,0,4128,16.98,16.67,2.36,69.12,6.44,38.436,3259.2,1.996,30.88,Larger county (100k+),37063,Durham County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Dutchess County, NY",36027,NY,0,2611,34.47,,,77.48,6.68,38.564,3305.4,2.018,22.52,Larger county (100k+),36027,Dutchess County,Yes,Neither,Q2,Q3
+"Duval County, FL",12031,FL,0,12861,37.06,3.03,9.34,52.33,9.91,38.188,3194.1,2.284,47.67,Larger county (100k+),12031,Duval County,Yes,Low early care only,Q2,Q4 (highest)
+"East Baton Rouge Parish, LA",22033,LA,0,5069,63.68,0.55,2.02,59.33,8.84,37.988,3119.9,2.233,40.67,Larger county (100k+),22033,East Baton Rouge Parish,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Eaton County, MI",26045,MI,0,856,27.22,2.1,,83.25,2.97,38.403,3292.7,1.922,16.75,Larger county (100k+),26045,Eaton County,Yes,Neither,Q1 (lowest),Q2
+"Ector County, TX",48135,TX,0,3078,48.25,14.98,6.01,67.19,3.31,37.99,3171.8,1.939,32.81,Larger county (100k+),48135,Ector County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"El Dorado County, CA",6017,CA,0,1440,25.69,3.4,,88.92,,38.685,3346.1,1.76,11.08,Larger county (100k+),06017,El Dorado County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"El Paso County, CO",8041,CO,0,9102,30.34,4.55,1.38,70.67,3.89,38.248,3141.5,2.079,29.33,Larger county (100k+),08041,El Paso County,Yes,Low early care only,Q2,Q4 (highest)
+"El Paso County, TX",48141,TX,0,10762,54.76,9.64,2.36,71.96,5.53,37.916,3125.7,2.032,28.04,Larger county (100k+),48141,El Paso County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Elkhart County, IN",18039,IN,0,2730,46.76,17.43,0.51,72.71,3.85,38.535,3296.7,2.132,27.29,Larger county (100k+),18039,Elkhart County,Yes,Low early care only,Q3,Q4 (highest)
+"Ellis County, TX",48139,TX,0,2840,31.06,5.74,4.5,61.46,4.72,38.275,3277.9,2.196,38.54,Larger county (100k+),48139,Ellis County,Yes,Low early care only,Q2,Q4 (highest)
+"Erie County, NY",36029,NY,0,8705,25.82,0.39,1.25,85.15,2.12,38.245,3216.7,2.155,14.85,Larger county (100k+),36029,Erie County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Erie County, PA",42049,PA,0,2423,48.33,,7.88,76.32,3.46,38.14,3209.8,2.091,23.68,Larger county (100k+),42049,Erie County,Yes,High Medicaid only,Q4 (highest),Q3
+"Escambia County, FL",12033,FL,0,3624,39.1,7.17,2.82,64.54,7.77,37.974,3188.1,2.206,35.46,Larger county (100k+),12033,Escambia County,Yes,Low early care only,Q2,Q4 (highest)
+"Essex County, MA",25009,MA,0,8751,43.51,0.67,0.81,83.8,4.3,38.481,3278.9,1.865,16.2,Larger county (100k+),25009,Essex County,Yes,Neither,Q3,Q2
+"Essex County, NJ",34013,NJ,0,9922,41.89,13.43,4.84,58.0,8.49,38.364,3207.0,2.102,42.0,Larger county (100k+),34013,Essex County,Yes,Low early care only,Q3,Q4 (highest)
+"Etowah County, AL",1055,AL,0,1174,54.77,0.94,3.83,66.52,5.79,38.199,3209.9,1.997,33.48,Larger county (100k+),01055,Etowah County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Fairfax County, VA",51059,VA,0,12354,24.74,1.3,2.81,76.99,3.61,38.428,3272.4,2.024,23.01,Larger county (100k+),51059,Fairfax County,Yes,Neither,Q1 (lowest),Q3
+"Fairfield County, CT",9001,CT,0,10001,37.17,0.84,0.11,83.46,3.21,38.501,3292.2,1.978,16.54,Larger county (100k+),09001,Fairfield County,Yes,Neither,Q2,Q2
+"Fairfield County, OH",39045,OH,0,1576,29.51,2.66,1.47,80.38,3.39,38.139,3241.5,2.001,19.62,Larger county (100k+),39045,Fairfield County,Yes,Neither,Q1 (lowest),Q2
+"Faulkner County, AR",5045,AR,0,1452,37.12,4.2,3.17,74.38,4.82,38.121,3257.5,2.152,25.62,Larger county (100k+),05045,Faulkner County,Yes,Neither,Q2,Q3
+"Fayette County, GA",13113,GA,0,858,32.52,3.38,4.9,82.28,,38.109,3194.5,2.318,17.72,Larger county (100k+),13113,Fayette County,Yes,Neither,Q2,Q2
+"Fayette County, KY",21067,KY,0,3712,39.06,4.53,0.89,79.28,2.61,38.136,3224.4,2.035,20.72,Larger county (100k+),21067,Fayette County,Yes,Neither,Q2,Q2
+"Fayette County, PA",42051,PA,0,976,54.55,1.04,4.07,80.08,4.07,38.261,3230.5,1.94,19.92,Larger county (100k+),42051,Fayette County,Yes,High Medicaid only,Q4 (highest),Q2
+"Florence County, SC",45041,SC,0,1487,65.37,2.15,2.56,76.46,2.62,37.762,3082.8,2.342,23.54,Larger county (100k+),45041,Florence County,Yes,High Medicaid only,Q4 (highest),Q3
+"Fond du Lac County, WI",55039,WI,0,918,34.42,,,85.57,1.21,38.244,3321.2,1.943,14.43,Larger county (100k+),55039,Fond du Lac County,Yes,Neither,Q2,Q1 (lowest)
+"Forsyth County, GA",13117,GA,0,2267,14.6,7.45,2.56,86.33,1.28,38.236,3242.4,2.065,13.67,Larger county (100k+),13117,Forsyth County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Forsyth County, NC",37067,NC,0,4464,38.84,10.69,6.88,64.18,8.26,38.253,3221.6,2.084,35.82,Larger county (100k+),37067,Forsyth County,Yes,Low early care only,Q2,Q4 (highest)
+"Fort Bend County, TX",48157,TX,0,9346,29.91,5.34,2.27,62.45,10.03,38.011,3177.6,2.122,37.55,Larger county (100k+),48157,Fort Bend County,Yes,Low early care only,Q2,Q4 (highest)
+"Franklin County, MO",29071,MO,0,1101,29.08,2.2,,87.98,,38.149,3283.3,2.182,12.02,Larger county (100k+),29071,Franklin County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Franklin County, OH",39049,OH,0,17361,38.87,7.94,2.27,72.53,5.49,38.212,3208.9,2.261,27.47,Larger county (100k+),39049,Franklin County,Yes,Low early care only,Q2,Q4 (highest)
+"Franklin County, PA",42055,PA,0,1599,29.02,14.18,,83.0,2.83,38.546,3308.3,1.984,17.0,Larger county (100k+),42055,Franklin County,Yes,Neither,Q1 (lowest),Q2
+"Frederick County, MD",24021,MD,0,3176,28.21,1.64,0.61,82.82,2.93,38.588,3321.5,1.843,17.18,Larger county (100k+),24021,Frederick County,Yes,Neither,Q1 (lowest),Q2
+"Fresno County, CA",6019,CA,0,13176,65.3,0.44,0.82,79.84,3.54,38.401,3246.9,2.137,20.16,Larger county (100k+),06019,Fresno County,Yes,High Medicaid only,Q4 (highest),Q2
+"Fulton County, GA",13121,GA,0,12252,37.05,5.43,7.92,72.26,4.72,38.202,3130.4,2.224,27.74,Larger county (100k+),13121,Fulton County,Yes,Low early care only,Q2,Q4 (highest)
+"Galveston County, TX",48167,TX,0,3883,44.45,2.62,1.63,75.99,4.39,37.933,3182.0,2.111,24.01,Larger county (100k+),48167,Galveston County,Yes,Neither,Q3,Q3
+"Gaston County, NC",37071,NC,0,2780,40.94,8.42,5.29,75.4,3.27,38.252,3201.0,2.152,24.6,Larger county (100k+),37071,Gaston County,Yes,Neither,Q3,Q3
+"Genesee County, MI",26049,MI,0,4046,53.48,1.66,2.15,70.2,5.01,38.121,3198.3,2.207,29.8,Larger county (100k+),26049,Genesee County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Gloucester County, NJ",34015,NJ,0,2854,23.79,0.35,1.82,84.83,2.17,38.361,3283.5,2.054,15.17,Larger county (100k+),34015,Gloucester County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Grayson County, TX",48181,TX,0,1735,35.33,9.45,3.26,69.02,5.04,38.269,3253.5,1.962,30.98,Larger county (100k+),48181,Grayson County,Yes,Low early care only,Q2,Q4 (highest)
+"Greene County, MO",29077,MO,0,3318,51.15,4.76,3.52,74.74,4.79,38.312,3274.2,2.132,25.26,Larger county (100k+),29077,Greene County,Yes,High Medicaid only,Q4 (highest),Q3
+"Greene County, OH",39057,OH,0,1560,28.46,2.24,,84.1,,38.35,3317.4,1.989,15.9,Larger county (100k+),39057,Greene County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Greenville County, SC",45045,SC,0,6617,34.11,7.74,1.47,76.09,3.46,38.248,3255.0,2.119,23.91,Larger county (100k+),45045,Greenville County,Yes,Neither,Q2,Q3
+"Gregg County, TX",48183,TX,0,1558,48.97,7.7,0.64,84.34,2.37,37.973,3217.2,2.168,15.66,Larger county (100k+),48183,Gregg County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Guadalupe County, TX",48187,TX,0,2199,35.36,7.26,1.38,78.09,4.27,38.161,3240.2,1.927,21.91,Larger county (100k+),48187,Guadalupe County,Yes,Neither,Q2,Q3
+"Guilford County, NC",37081,NC,0,5586,44.54,6.05,2.54,65.4,6.5,38.211,3221.1,2.128,34.6,Larger county (100k+),37081,Guilford County,Yes,Low early care only,Q3,Q4 (highest)
+"Gwinnett County, GA",13135,GA,0,11241,36.83,14.93,7.8,78.47,2.68,38.306,3193.2,2.165,21.53,Larger county (100k+),13135,Gwinnett County,Yes,Neither,Q2,Q3
+"Hall County, GA",13139,GA,0,3054,31.34,21.09,6.42,65.55,4.45,38.406,3257.4,2.107,34.45,Larger county (100k+),13139,Hall County,Yes,Low early care only,Q2,Q4 (highest)
+"Hamilton County, IN",18057,IN,0,3938,12.52,2.97,0.81,87.76,2.44,38.279,3300.0,1.9,12.24,Larger county (100k+),18057,Hamilton County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Hamilton County, OH",39061,OH,0,9991,40.87,6.58,1.77,73.62,4.65,38.185,3203.0,2.259,26.38,Larger county (100k+),39061,Hamilton County,Yes,Neither,Q3,Q3
+"Hamilton County, TN",47065,TN,0,4536,43.45,3.86,5.09,68.04,4.59,38.279,3250.2,2.059,31.96,Larger county (100k+),47065,Hamilton County,Yes,Low early care only,Q3,Q4 (highest)
+"Hampden County, MA",25013,MA,0,4594,27.65,0.63,0.59,71.34,6.74,38.385,3246.3,2.192,28.66,Larger county (100k+),25013,Hampden County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Hampshire County, MA",25015,MA,0,782,13.34,,2.33,81.22,3.63,38.538,3324.6,2.136,18.78,Larger county (100k+),25015,Hampshire County,Yes,Neither,Q1 (lowest),Q2
+"Hampton city, VA",51650,VA,0,1408,42.76,,0.87,83.67,,38.299,3173.3,2.205,16.33,Larger county (100k+),51650,Hampton city,Yes,Neither,Q3,Q2
+"Hardin County, KY",21093,KY,0,1237,44.14,,1.37,75.42,1.13,38.056,3237.1,2.008,24.58,Larger county (100k+),21093,Hardin County,Yes,Neither,Q3,Q3
+"Harford County, MD",24025,MD,0,2428,33.24,0.45,0.56,87.13,1.08,38.311,3289.3,2.04,12.87,Larger county (100k+),24025,Harford County,Yes,Neither,Q2,Q1 (lowest)
+"Harnett County, NC",37085,NC,0,1905,32.13,7.4,4.2,69.34,4.99,38.344,3283.9,2.017,30.66,Larger county (100k+),37085,Harnett County,Yes,Low early care only,Q2,Q4 (highest)
+"Harris County, TX",48201,TX,0,63771,53.35,5.85,5.06,59.29,8.7,38.093,3184.2,2.161,40.71,Larger county (100k+),48201,Harris County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Harrison County, MS",28047,MS,0,2321,47.39,6.64,1.2,81.16,1.9,38.057,3179.3,2.273,18.84,Larger county (100k+),28047,Harrison County,Yes,High Medicaid only,Q4 (highest),Q2
+"Hartford County, CT",9003,CT,0,8725,44.03,0.5,0.52,83.34,3.15,38.277,3240.8,2.121,16.66,Larger county (100k+),09003,Hartford County,Yes,Neither,Q3,Q2
+"Hawaii County, HI",15001,HI,0,2052,53.17,6.14,0.65,58.33,10.47,38.3,3174.5,2.167,41.67,Larger county (100k+),15001,Hawaii County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Hays County, TX",48209,TX,0,3615,32.86,5.91,3.8,78.97,2.72,38.271,3265.8,2.131,21.03,Larger county (100k+),48209,Hays County,Yes,Neither,Q2,Q2
+"Henderson County, NC",37089,NC,0,939,48.03,2.34,,89.14,,38.38,3265.7,1.972,10.86,Larger county (100k+),37089,Henderson County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Hendricks County, IN",18063,IN,0,1846,27.25,2.11,0.65,84.02,3.09,38.107,3279.4,2.008,15.98,Larger county (100k+),18063,Hendricks County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Hennepin County, MN",27053,MN,0,14146,35.06,2.77,1.24,79.95,4.04,38.483,3275.5,2.137,20.05,Larger county (100k+),27053,Hennepin County,Yes,Neither,Q2,Q2
+"Henrico County, VA",51087,VA,0,3693,38.45,1.08,0.6,87.34,2.07,38.365,3258.6,2.109,12.66,Larger county (100k+),51087,Henrico County,Yes,Neither,Q2,Q1 (lowest)
+"Henry County, GA",13151,GA,0,2785,49.41,5.28,15.35,65.33,3.1,38.047,3110.7,2.299,34.67,Larger county (100k+),13151,Henry County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Hernando County, FL",12053,FL,0,1798,49.8,1.02,1.33,70.47,6.25,38.15,3225.8,2.034,29.53,Larger county (100k+),12053,Hernando County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Hidalgo County, TX",48215,TX,0,13671,63.0,8.76,10.08,62.05,6.87,37.86,3159.2,2.107,37.95,Larger county (100k+),48215,Hidalgo County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Hillsborough County, FL",12057,FL,0,17080,39.82,9.04,1.92,69.18,6.23,38.3,3221.9,2.175,30.82,Larger county (100k+),12057,Hillsborough County,Yes,Low early care only,Q3,Q4 (highest)
+"Hillsborough County, NH",33011,NH,0,3970,22.62,2.64,0.45,87.43,2.07,38.633,3332.5,1.973,12.57,Larger county (100k+),33011,Hillsborough County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Hinds County, MS",28049,MS,0,2322,62.96,7.11,1.85,72.82,4.52,37.471,2996.6,2.602,27.18,Larger county (100k+),28049,Hinds County,Yes,High Medicaid only,Q4 (highest),Q3
+"Honolulu County, HI",15003,HI,0,10456,29.67,2.9,6.39,65.72,7.72,38.345,3209.3,2.029,34.28,Larger county (100k+),15003,Honolulu County,Yes,Low early care only,Q2,Q4 (highest)
+"Horry County, SC",45051,SC,0,3463,49.03,8.03,3.23,66.76,7.22,38.284,3258.2,1.998,33.24,Larger county (100k+),45051,Horry County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Houston County, AL",1069,AL,0,1177,50.13,,,74.43,3.31,38.34,3210.6,2.058,25.57,Larger county (100k+),01069,Houston County,Yes,High Medicaid only,Q4 (highest),Q3
+"Houston County, GA",13153,GA,0,1912,36.82,5.65,3.82,76.62,2.72,38.065,3197.1,2.052,23.38,Larger county (100k+),13153,Houston County,Yes,Neither,Q2,Q3
+"Howard County, MD",24027,MD,0,2923,25.76,0.41,,81.51,3.55,38.376,3232.9,1.91,18.49,Larger county (100k+),24027,Howard County,Yes,Neither,Q1 (lowest),Q2
+"Hudson County, NJ",34017,NJ,0,9007,30.19,6.72,1.81,75.57,4.58,38.346,3202.4,1.977,24.43,Larger county (100k+),34017,Hudson County,Yes,Neither,Q2,Q3
+"Humboldt County, CA",6023,CA,0,980,42.65,3.16,,91.73,,38.767,3389.7,1.737,8.27,Larger county (100k+),06023,Humboldt County,Yes,Neither,Q3,Q1 (lowest)
+"Hunterdon County, NJ",34019,NJ,0,1051,4.09,6.95,,87.63,,38.532,3349.5,1.657,12.37,Larger county (100k+),34019,Hunterdon County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Imperial County, CA",6025,CA,0,2131,63.44,8.73,0.65,67.39,7.14,38.401,3270.4,1.711,32.61,Larger county (100k+),06025,Imperial County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Indian River County, FL",12061,FL,0,1114,40.44,1.9,,76.66,3.32,38.412,3263.6,1.986,23.34,Larger county (100k+),12061,Indian River County,Yes,Neither,Q3,Q3
+"Ingham County, MI",26065,MI,0,2714,42.11,2.98,2.2,73.54,6.3,38.267,3228.4,2.226,26.46,Larger county (100k+),26065,Ingham County,Yes,Neither,Q3,Q3
+"Iredell County, NC",37097,NC,0,2122,34.31,4.29,6.74,73.29,5.41,38.262,3249.9,2.14,26.71,Larger county (100k+),37097,Iredell County,Yes,Neither,Q2,Q3
+"Jackson County, MI",26075,MI,0,1457,40.7,1.99,2.13,84.08,1.92,38.233,3261.8,2.257,15.92,Larger county (100k+),26075,Jackson County,Yes,Neither,Q3,Q1 (lowest)
+"Jackson County, MO",29095,MO,0,8515,44.86,5.27,2.72,70.94,4.51,38.259,3212.1,2.141,29.06,Larger county (100k+),29095,Jackson County,Yes,Low early care only,Q3,Q4 (highest)
+"Jackson County, MS",28059,MS,0,1495,49.43,3.41,0.98,83.2,2.25,38.077,3219.0,1.943,16.8,Larger county (100k+),28059,Jackson County,Yes,High Medicaid only,Q4 (highest),Q2
+"Jackson County, OR",41029,OR,0,1945,54.34,2.11,0.93,84.68,2.01,38.341,3261.4,1.977,15.32,Larger county (100k+),41029,Jackson County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Jasper County, MO",29097,MO,0,1474,56.11,1.36,0.88,79.04,2.58,38.142,3238.8,1.844,20.96,Larger county (100k+),29097,Jasper County,Yes,High Medicaid only,Q4 (highest),Q2
+"Jefferson County, AL",1073,AL,0,7841,38.04,3.57,1.19,73.89,3.76,38.048,3161.8,2.246,26.11,Larger county (100k+),01073,Jefferson County,Yes,Neither,Q2,Q3
+"Jefferson County, CO",8059,CO,0,5466,21.94,1.96,1.79,83.52,3.31,38.518,3189.1,1.961,16.48,Larger county (100k+),08059,Jefferson County,Yes,Neither,Q1 (lowest),Q2
+"Jefferson County, KY",21111,KY,0,9782,49.15,3.1,2.26,72.52,5.03,38.197,3230.5,2.195,27.48,Larger county (100k+),21111,Jefferson County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Jefferson County, MO",29099,MO,0,2336,26.29,1.62,1.26,79.44,2.9,38.063,3251.8,2.023,20.56,Larger county (100k+),29099,Jefferson County,Yes,Neither,Q1 (lowest),Q2
+"Jefferson County, NY",36045,NY,0,1455,26.34,,,79.72,3.24,38.351,3271.0,2.211,20.28,Larger county (100k+),36045,Jefferson County,Yes,Neither,Q1 (lowest),Q2
+"Jefferson County, TX",48245,TX,0,3014,63.77,4.21,2.89,69.97,5.06,38.107,3161.7,2.203,30.03,Larger county (100k+),48245,Jefferson County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Jefferson Parish, LA",22051,LA,0,4944,67.29,0.24,1.84,65.31,8.11,38.061,3164.0,2.136,34.69,Larger county (100k+),22051,Jefferson Parish,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Johnson County, IA",19103,IA,0,1557,21.19,8.61,,84.84,1.35,38.384,3306.6,2.075,15.16,Larger county (100k+),19103,Johnson County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Johnson County, IN",18081,IN,0,1932,35.25,1.29,0.83,82.51,2.69,38.248,3285.1,1.891,17.49,Larger county (100k+),18081,Johnson County,Yes,Neither,Q2,Q2
+"Johnson County, KS",20091,KS,0,6655,15.18,4.06,0.5,90.23,0.5,38.373,3324.0,1.828,9.77,Larger county (100k+),20091,Johnson County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Johnson County, TX",48251,TX,0,2527,40.3,5.88,4.41,69.72,4.09,38.236,3297.4,2.053,30.28,Larger county (100k+),48251,Johnson County,Yes,Low early care only,Q3,Q4 (highest)
+"Johnston County, NC",37101,NC,0,2916,28.64,11.73,4.77,77.37,2.33,38.405,3296.0,1.902,22.63,Larger county (100k+),37101,Johnston County,Yes,Neither,Q1 (lowest),Q3
+"Kalamazoo County, MI",26077,MI,0,2459,35.14,2.28,1.5,87.11,2.2,38.553,3322.7,2.103,12.89,Larger county (100k+),26077,Kalamazoo County,Yes,Neither,Q2,Q1 (lowest)
+"Kanawha County, WV",54039,WV,0,1617,49.47,0.62,1.19,83.5,3.58,37.461,3131.6,2.365,16.5,Larger county (100k+),54039,Kanawha County,Yes,High Medicaid only,Q4 (highest),Q2
+"Kane County, IL",17089,IL,0,5400,40.78,0.41,0.5,79.14,3.55,38.308,3284.6,1.93,20.86,Larger county (100k+),17089,Kane County,Yes,Neither,Q3,Q2
+"Kankakee County, IL",17091,IL,0,1053,36.18,,1.8,73.5,2.09,38.192,3229.2,2.162,26.5,Larger county (100k+),17091,Kankakee County,Yes,Neither,Q2,Q3
+"Kaufman County, TX",48257,TX,0,2922,36.49,6.12,2.7,67.03,5.62,38.167,3239.3,2.129,32.97,Larger county (100k+),48257,Kaufman County,Yes,Low early care only,Q2,Q4 (highest)
+"Kendall County, IL",17093,IL,0,1380,22.17,,,86.52,1.52,38.252,3286.9,1.746,13.48,Larger county (100k+),17093,Kendall County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Kennebec County, ME",23011,ME,0,957,42.84,1.36,,83.39,,38.333,3249.5,2.041,16.61,Larger county (100k+),23011,Kennebec County,Yes,Neither,Q3,Q2
+"Kenosha County, WI",55059,WI,0,1498,39.72,,0.82,83.75,2.45,38.272,3253.1,2.121,16.25,Larger county (100k+),55059,Kenosha County,Yes,Neither,Q3,Q2
+"Kent County, DE",10001,DE,0,1978,44.89,3.39,1.11,66.17,3.69,38.235,3201.2,2.28,33.83,Larger county (100k+),10001,Kent County,Yes,Low early care only,Q3,Q4 (highest)
+"Kent County, MI",26081,MI,0,7954,29.32,2.55,2.54,73.66,6.14,38.335,3257.5,2.033,26.34,Larger county (100k+),26081,Kent County,Yes,Neither,Q1 (lowest),Q3
+"Kent County, RI",44003,RI,0,1390,24.53,,,93.38,,38.504,3298.0,1.86,6.62,Larger county (100k+),44003,Kent County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Kenton County, KY",21117,KY,0,2172,28.93,7.19,5.16,78.87,2.72,38.329,3283.4,1.874,21.13,Larger county (100k+),21117,Kenton County,Yes,Neither,Q1 (lowest),Q3
+"Kern County, CA",6029,CA,0,11698,64.55,0.98,1.66,79.15,3.4,38.513,3262.8,2.202,20.85,Larger county (100k+),06029,Kern County,Yes,High Medicaid only,Q4 (highest),Q2
+"King County, WA",53033,WA,0,22848,29.82,0.78,1.03,76.07,5.07,38.622,3292.4,1.927,23.93,Larger county (100k+),53033,King County,Yes,Neither,Q2,Q3
+"Kings County, CA",6031,CA,0,2121,53.8,,0.52,79.3,3.11,38.405,3270.7,2.019,20.7,Larger county (100k+),06031,Kings County,Yes,High Medicaid only,Q4 (highest),Q2
+"Kings County, NY",36047,NY,0,33119,62.59,0.48,1.26,75.22,5.73,38.601,3232.5,1.958,24.78,Larger county (100k+),36047,Kings County,Yes,High Medicaid only,Q4 (highest),Q3
+"Kitsap County, WA",53035,WA,0,2721,26.53,0.96,1.32,69.91,5.34,38.576,3343.8,2.163,30.09,Larger county (100k+),53035,Kitsap County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Knox County, TN",47093,TN,0,5330,42.27,2.23,2.84,78.3,3.07,38.285,3271.6,1.938,21.7,Larger county (100k+),47093,Knox County,Yes,Neither,Q3,Q3
+"Kootenai County, ID",16055,ID,0,1969,18.33,16.3,,84.21,1.98,38.614,3392.6,1.972,15.79,Larger county (100k+),16055,Kootenai County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"La Crosse County, WI",55063,WI,0,1051,25.4,1.05,,93.34,,38.721,3354.2,1.93,6.66,Larger county (100k+),55063,La Crosse County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"La Porte County, IN",18091,IN,0,1022,52.64,,1.57,66.05,5.09,38.084,3224.5,1.797,33.95,Larger county (100k+),18091,La Porte County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"LaSalle County, IL",17099,IL,0,997,40.62,,,88.26,,38.363,3315.4,1.725,11.74,Larger county (100k+),17099,LaSalle County,Yes,Neither,Q3,Q1 (lowest)
+"Lackawanna County, PA",42069,PA,0,1862,54.4,,0.65,79.11,4.35,38.467,3264.0,1.962,20.89,Larger county (100k+),42069,Lackawanna County,Yes,High Medicaid only,Q4 (highest),Q2
+"Lafayette Parish, LA",22055,LA,0,3379,56.94,2.07,4.23,82.47,2.15,37.953,3162.7,2.388,17.53,Larger county (100k+),22055,Lafayette Parish,Yes,High Medicaid only,Q4 (highest),Q2
+"Lake County, FL",12069,FL,0,3808,40.06,3.83,2.35,68.34,4.97,38.154,3237.3,2.24,31.66,Larger county (100k+),12069,Lake County,Yes,Low early care only,Q3,Q4 (highest)
+"Lake County, IL",17097,IL,0,6440,34.05,0.67,1.27,76.75,5.49,38.354,3277.2,1.867,23.25,Larger county (100k+),17097,Lake County,Yes,Neither,Q2,Q3
+"Lake County, IN",18089,IN,0,4863,47.1,0.58,2.29,70.6,4.51,38.177,3215.8,2.084,29.4,Larger county (100k+),18089,Lake County,Yes,Low early care only,Q3,Q4 (highest)
+"Lake County, OH",39085,OH,0,2014,28.2,2.83,1.84,82.37,3.38,38.221,3255.8,2.008,17.63,Larger county (100k+),39085,Lake County,Yes,Neither,Q1 (lowest),Q2
+"Lancaster County, NE",31109,NE,0,3664,35.47,0.44,0.36,77.63,4.81,38.223,3274.9,2.134,22.37,Larger county (100k+),31109,Lancaster County,Yes,Neither,Q2,Q3
+"Lancaster County, PA",42071,PA,0,6792,23.13,30.29,0.37,67.64,2.4,38.626,3369.0,1.953,32.36,Larger county (100k+),42071,Lancaster County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Lane County, OR",41039,OR,0,2747,47.94,1.73,0.44,84.1,2.49,38.492,3340.9,1.901,15.9,Larger county (100k+),41039,Lane County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Larimer County, CO",8069,CO,0,3033,26.05,3.53,0.4,84.83,2.98,38.474,3220.6,1.858,15.17,Larger county (100k+),08069,Larimer County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Lebanon County, PA",42075,PA,0,1486,32.71,15.95,,80.53,4.14,38.472,3260.4,2.303,19.47,Larger county (100k+),42075,Lebanon County,Yes,Neither,Q2,Q2
+"Lee County, AL",1081,AL,0,1930,26.37,0.52,0.62,75.44,4.4,38.092,3203.5,2.043,24.56,Larger county (100k+),01081,Lee County,Yes,Neither,Q1 (lowest),Q3
+"Lee County, FL",12071,FL,0,8096,45.74,3.63,2.12,54.56,8.25,38.258,3208.1,2.182,45.44,Larger county (100k+),12071,Lee County,Yes,Low early care only,Q3,Q4 (highest)
+"Lehigh County, PA",42077,PA,0,3720,39.22,3.17,0.3,83.87,3.49,38.334,3254.6,2.145,16.13,Larger county (100k+),42077,Lehigh County,Yes,Neither,Q3,Q1 (lowest)
+"Leon County, FL",12073,FL,0,2670,37.07,2.44,2.97,73.14,4.32,38.224,3155.6,2.324,26.86,Larger county (100k+),12073,Leon County,Yes,Neither,Q2,Q3
+"Lexington County, SC",45063,SC,0,3254,37.12,6.24,2.03,78.98,4.49,38.145,3232.6,2.001,21.02,Larger county (100k+),45063,Lexington County,Yes,Neither,Q2,Q2
+"Licking County, OH",39089,OH,0,1765,33.31,4.02,1.53,83.17,1.25,38.289,3288.9,2.072,16.83,Larger county (100k+),39089,Licking County,Yes,Neither,Q2,Q2
+"Linn County, IA",19113,IA,0,2502,41.69,1.08,1.32,85.25,2.2,38.212,3291.4,2.028,14.75,Larger county (100k+),19113,Linn County,Yes,Neither,Q3,Q1 (lowest)
+"Linn County, OR",41043,OR,0,1382,47.68,2.39,,89.36,0.8,38.554,3361.2,1.894,10.64,Larger county (100k+),41043,Linn County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Litchfield County, CT",9005,CT,0,1375,39.27,,,88.95,1.89,38.362,3298.8,1.941,11.05,Larger county (100k+),09005,Litchfield County,Yes,Neither,Q3,Q1 (lowest)
+"Livingston County, MI",26093,MI,0,1684,13.0,2.32,1.26,90.7,1.2,38.395,3363.5,2.033,9.3,Larger county (100k+),26093,Livingston County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Livingston Parish, LA",22063,LA,0,1879,53.01,0.75,1.22,70.01,5.04,38.071,3228.6,1.942,29.99,Larger county (100k+),22063,Livingston Parish,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Lorain County, OH",39093,OH,0,3017,37.75,1.86,0.8,83.73,2.95,38.113,3224.2,2.11,16.27,Larger county (100k+),39093,Lorain County,Yes,Neither,Q2,Q2
+"Los Angeles County, CA",6037,CA,0,90483,42.89,3.24,0.77,84.91,2.93,38.447,3239.5,2.012,15.09,Larger county (100k+),06037,Los Angeles County,Yes,Neither,Q3,Q1 (lowest)
+"Loudoun County, VA",51107,VA,0,4512,21.81,1.8,1.44,84.31,1.91,38.481,3280.6,1.898,15.69,Larger county (100k+),51107,Loudoun County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Lowndes County, GA",13185,GA,0,1486,50.2,4.58,7.4,65.81,3.77,37.976,3156.0,2.119,34.19,Larger county (100k+),13185,Lowndes County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Lubbock County, TX",48303,TX,0,4191,51.94,6.99,1.44,50.68,5.17,38.289,3204.0,2.104,49.32,Larger county (100k+),48303,Lubbock County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Lucas County, OH",39095,OH,0,4409,48.04,1.11,0.73,79.66,3.4,38.096,3223.0,2.248,20.34,Larger county (100k+),39095,Lucas County,Yes,High Medicaid only,Q4 (highest),Q2
+"Luzerne County, PA",42079,PA,0,3197,63.42,0.78,1.22,79.67,3.75,38.447,3266.7,2.087,20.33,Larger county (100k+),42079,Luzerne County,Yes,High Medicaid only,Q4 (highest),Q2
+"Lycoming County, PA",42081,PA,0,996,44.48,5.52,,79.31,2.84,38.381,3281.5,2.107,20.69,Larger county (100k+),42081,Lycoming County,Yes,Neither,Q3,Q2
+"Macomb County, MI",26099,MI,0,8450,32.2,1.7,1.22,81.12,2.86,38.263,3231.9,2.068,18.88,Larger county (100k+),26099,Macomb County,Yes,Neither,Q2,Q2
+"Macon County, IL",17115,IL,0,989,43.07,,,77.45,3.64,37.987,3145.1,2.366,22.55,Larger county (100k+),17115,Macon County,Yes,Neither,Q3,Q3
+"Madera County, CA",6039,CA,0,2082,63.4,,0.65,83.51,2.06,38.588,3268.8,1.919,16.49,Larger county (100k+),06039,Madera County,Yes,High Medicaid only,Q4 (highest),Q2
+"Madison County, AL",1089,AL,0,4562,29.22,2.54,3.76,63.14,6.2,38.038,3210.3,2.122,36.86,Larger county (100k+),01089,Madison County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Madison County, IL",17119,IL,0,2397,24.82,0.58,2.23,78.97,1.81,38.176,3270.9,1.842,21.03,Larger county (100k+),17119,Madison County,Yes,Neither,Q1 (lowest),Q2
+"Madison County, IN",18095,IN,0,1364,49.49,1.47,0.73,86.36,1.54,38.034,3232.7,2.077,13.64,Larger county (100k+),18095,Madison County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Mahoning County, OH",39099,OH,0,2089,53.95,1.82,0.48,88.75,1.53,37.936,3169.1,2.108,11.25,Larger county (100k+),39099,Mahoning County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Manatee County, FL",12081,FL,0,4188,47.36,3.97,2.4,70.57,6.2,38.323,3249.8,2.073,29.43,Larger county (100k+),12081,Manatee County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Marathon County, WI",55073,WI,0,1342,31.15,6.48,,89.42,0.75,38.287,3297.3,2.121,10.58,Larger county (100k+),55073,Marathon County,Yes,Neither,Q2,Q1 (lowest)
+"Maricopa County, AZ",4013,AZ,0,50866,42.49,5.76,2.56,74.01,5.76,38.41,3263.9,1.989,25.99,Larger county (100k+),04013,Maricopa County,Yes,Neither,Q3,Q3
+"Marin County, CA",6041,CA,0,1994,30.54,1.15,,88.62,0.65,38.745,3335.9,1.815,11.38,Larger county (100k+),06041,Marin County,Yes,Neither,Q2,Q1 (lowest)
+"Marion County, FL",12083,FL,0,3870,56.05,4.36,4.92,55.89,7.85,38.368,3257.3,2.053,44.11,Larger county (100k+),12083,Marion County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Marion County, IN",18097,IN,0,14567,55.88,2.91,4.24,61.28,7.23,38.105,3185.3,2.345,38.72,Larger county (100k+),18097,Marion County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Marion County, OR",41047,OR,0,3942,54.64,1.85,1.2,78.18,2.8,38.488,3314.3,2.054,21.82,Larger county (100k+),41047,Marion County,Yes,High Medicaid only,Q4 (highest),Q3
+"Martin County, FL",12085,FL,0,1275,38.17,8.1,,71.7,4.03,38.469,3284.0,1.948,28.3,Larger county (100k+),12085,Martin County,Yes,Low early care only,Q2,Q4 (highest)
+"Maui County, HI",15009,HI,0,1519,39.96,5.4,,80.63,2.11,38.713,3230.1,1.784,19.37,Larger county (100k+),15009,Maui County,Yes,Neither,Q3,Q2
+"McHenry County, IL",17111,IL,0,2999,26.68,0.5,0.33,81.13,2.23,38.299,3322.7,1.918,18.87,Larger county (100k+),17111,McHenry County,Yes,Neither,Q1 (lowest),Q2
+"McLean County, IL",17113,IL,0,1515,28.12,0.99,,86.14,3.04,38.37,3277.0,2.195,13.86,Larger county (100k+),17113,McLean County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"McLennan County, TX",48309,TX,0,3261,44.72,8.47,0.6,65.29,5.27,38.25,3261.8,2.035,34.71,Larger county (100k+),48309,McLennan County,Yes,Low early care only,Q3,Q4 (highest)
+"Mecklenburg County, NC",37119,NC,0,15533,25.67,14.8,6.96,71.23,3.94,38.315,3204.4,2.16,28.77,Larger county (100k+),37119,Mecklenburg County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Medina County, OH",39103,OH,0,1565,16.29,5.5,0.77,86.65,1.02,38.343,3289.7,1.941,13.35,Larger county (100k+),39103,Medina County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Merced County, CA",6047,CA,0,3724,65.84,0.73,0.8,74.89,5.86,38.449,3275.2,2.041,25.11,Larger county (100k+),06047,Merced County,Yes,High Medicaid only,Q4 (highest),Q3
+"Mercer County, NJ",34021,NJ,0,4069,36.84,13.62,1.25,66.63,6.29,38.486,3259.3,2.217,33.37,Larger county (100k+),34021,Mercer County,Yes,Low early care only,Q2,Q4 (highest)
+"Mercer County, PA",42085,PA,0,898,39.42,9.47,,77.65,4.4,38.411,3261.2,1.948,22.35,Larger county (100k+),42085,Mercer County,Yes,Neither,Q3,Q3
+"Merrimack County, NH",33013,NH,0,1193,25.4,2.43,,93.55,,38.74,3398.9,1.719,6.45,Larger county (100k+),33013,Merrimack County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Mesa County, CO",8077,CO,0,1475,43.39,2.92,0.81,90.58,0.81,38.307,3209.4,1.905,9.42,Larger county (100k+),08077,Mesa County,Yes,Neither,Q3,Q1 (lowest)
+"Miami County, OH",39109,OH,0,1072,29.76,5.5,,87.69,,38.448,3356.8,2.15,12.31,Larger county (100k+),39109,Miami County,Yes,Neither,Q2,Q1 (lowest)
+"Miami-Dade County, FL",12086,FL,0,28124,35.15,9.54,8.88,64.5,8.55,38.305,3232.7,2.077,35.5,Larger county (100k+),12086,Miami-Dade County,Yes,Low early care only,Q2,Q4 (highest)
+"Middlesex County, CT",9007,CT,0,1297,25.06,,,88.97,0.85,38.404,3309.1,1.969,11.03,Larger county (100k+),09007,Middlesex County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Middlesex County, MA",25017,MA,0,15918,27.1,1.39,0.67,82.49,4.51,38.585,3287.1,1.819,17.51,Larger county (100k+),25017,Middlesex County,Yes,Neither,Q1 (lowest),Q2
+"Middlesex County, NJ",34023,NJ,0,8235,27.25,3.87,1.35,74.18,4.36,38.41,3208.2,1.95,25.82,Larger county (100k+),34023,Middlesex County,Yes,Neither,Q1 (lowest),Q3
+"Midland County, TX",48329,TX,0,3215,41.96,7.96,3.45,67.84,6.13,38.24,3227.3,1.907,32.16,Larger county (100k+),48329,Midland County,Yes,Low early care only,Q3,Q4 (highest)
+"Milwaukee County, WI",55079,WI,0,11307,53.09,0.37,2.22,75.18,4.0,38.187,3159.6,2.241,24.82,Larger county (100k+),55079,Milwaukee County,Yes,High Medicaid only,Q4 (highest),Q3
+"Minnehaha County, SD",46099,SD,0,2768,23.92,6.14,3.22,83.38,3.4,38.126,3295.6,2.01,16.62,Larger county (100k+),46099,Minnehaha County,Yes,Neither,Q1 (lowest),Q2
+"Missoula County, MT",30063,MT,0,1002,24.85,3.99,,91.32,,38.359,3228.6,1.71,8.68,Larger county (100k+),30063,Missoula County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Mobile County, AL",1097,AL,0,4709,50.1,2.29,1.51,77.05,3.79,37.886,3145.1,2.376,22.95,Larger county (100k+),01097,Mobile County,Yes,High Medicaid only,Q4 (highest),Q3
+"Mohave County, AZ",4015,AZ,0,1708,58.43,6.91,2.55,75.44,5.22,38.363,3255.4,1.955,24.56,Larger county (100k+),04015,Mohave County,Yes,High Medicaid only,Q4 (highest),Q3
+"Monmouth County, NJ",34025,NJ,0,6327,17.75,4.05,1.27,82.89,3.17,38.49,3294.1,1.833,17.11,Larger county (100k+),34025,Monmouth County,Yes,Neither,Q1 (lowest),Q2
+"Monroe County, IN",18105,IN,0,942,15.5,1.06,1.27,84.71,,38.524,3302.1,2.037,15.29,Larger county (100k+),18105,Monroe County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Monroe County, MI",26115,MI,0,1384,27.02,,,86.05,0.79,38.306,3320.3,1.801,13.95,Larger county (100k+),26115,Monroe County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Monroe County, NY",36055,NY,0,6881,42.49,,0.59,83.11,2.69,38.355,3228.9,2.111,16.89,Larger county (100k+),36055,Monroe County,Yes,Neither,Q3,Q2
+"Monroe County, PA",42089,PA,0,1104,40.22,1.27,,81.52,3.44,38.28,3219.5,2.016,18.48,Larger county (100k+),42089,Monroe County,Yes,Neither,Q3,Q2
+"Monterey County, CA",6053,CA,0,5090,25.78,0.65,0.28,81.04,2.46,38.558,3300.0,2.018,18.96,Larger county (100k+),06053,Monterey County,Yes,Neither,Q1 (lowest),Q2
+"Montgomery County, AL",1101,AL,0,2682,47.65,2.05,5.29,62.12,7.53,37.777,3075.0,2.362,37.88,Larger county (100k+),01101,Montgomery County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Montgomery County, MD",24031,MD,0,10907,39.87,1.11,2.11,69.89,6.24,38.401,3256.9,2.056,30.11,Larger county (100k+),24031,Montgomery County,Yes,Low early care only,Q3,Q4 (highest)
+"Montgomery County, OH",39113,OH,0,5868,43.41,6.79,1.67,76.16,3.37,38.265,3244.5,2.209,23.84,Larger county (100k+),39113,Montgomery County,Yes,Neither,Q3,Q3
+"Montgomery County, PA",42091,PA,0,8307,17.64,1.78,0.96,82.99,3.51,38.514,3288.9,1.951,17.01,Larger county (100k+),42091,Montgomery County,Yes,Neither,Q1 (lowest),Q2
+"Montgomery County, TN",47125,TN,0,3612,30.58,2.02,2.61,67.25,5.95,38.247,3230.8,2.29,32.75,Larger county (100k+),47125,Montgomery County,Yes,Low early care only,Q2,Q4 (highest)
+"Montgomery County, TX",48339,TX,0,9166,36.45,6.24,4.05,67.46,6.18,38.307,3268.7,1.969,32.54,Larger county (100k+),48339,Montgomery County,Yes,Low early care only,Q2,Q4 (highest)
+"Morgan County, AL",1103,AL,0,1381,48.81,2.61,9.05,55.9,7.89,38.192,3232.1,1.839,44.1,Larger county (100k+),01103,Morgan County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Morris County, NJ",34027,NJ,0,4957,8.13,2.95,0.99,83.18,2.39,38.578,3307.2,1.854,16.82,Larger county (100k+),34027,Morris County,Yes,Neither,Q1 (lowest),Q2
+"Multnomah County, OR",41051,OR,0,6795,45.59,0.62,0.82,80.9,3.93,38.591,3301.6,2.084,19.1,Larger county (100k+),41051,Multnomah County,Yes,Neither,Q3,Q2
+"Muscogee County, GA",13215,GA,0,2477,54.06,2.3,2.91,73.88,5.05,37.878,3107.7,2.327,26.12,Larger county (100k+),13215,Muscogee County,Yes,High Medicaid only,Q4 (highest),Q3
+"Muskegon County, MI",26121,MI,0,1716,46.42,1.7,2.16,76.92,2.86,38.061,3220.3,2.115,23.08,Larger county (100k+),26121,Muskegon County,Yes,Neither,Q3,Q3
+"Napa County, CA",6055,CA,0,1052,43.73,1.24,,88.5,2.66,38.659,3330.7,1.917,11.5,Larger county (100k+),06055,Napa County,Yes,Neither,Q3,Q1 (lowest)
+"Nassau County, NY",36059,NY,0,13466,32.4,0.09,0.33,89.69,1.82,38.403,3229.2,1.893,10.31,Larger county (100k+),36059,Nassau County,Yes,Neither,Q2,Q1 (lowest)
+"Navajo County, AZ",4017,AZ,0,1096,74.73,1.0,2.65,66.7,5.75,38.327,3213.4,1.86,33.3,Larger county (100k+),04017,Navajo County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"New Castle County, DE",10003,DE,0,5941,40.6,0.2,1.54,86.21,1.4,38.287,3230.8,2.348,13.79,Larger county (100k+),10003,New Castle County,Yes,Neither,Q3,Q1 (lowest)
+"New Hanover County, NC",37129,NC,0,2155,26.96,12.02,2.0,73.92,2.78,38.331,3247.8,2.161,26.08,Larger county (100k+),37129,New Hanover County,Yes,Neither,Q1 (lowest),Q3
+"New Haven County, CT",9009,CT,0,8306,48.31,0.41,0.38,83.16,4.09,38.398,3263.5,2.059,16.84,Larger county (100k+),09009,New Haven County,Yes,High Medicaid only,Q4 (highest),Q2
+"New London County, CT",9011,CT,0,2385,35.09,0.67,,89.31,0.55,38.531,3285.2,1.889,10.69,Larger county (100k+),09011,New London County,Yes,Neither,Q2,Q1 (lowest)
+"New York County, NY",36061,NY,0,14429,31.88,0.68,1.57,77.49,6.05,38.458,3209.3,1.884,22.51,Larger county (100k+),36061,New York County,Yes,Neither,Q2,Q3
+"Newport News city, VA",51700,VA,0,2300,47.26,1.7,1.68,76.69,2.87,38.354,3212.0,2.11,23.31,Larger county (100k+),51700,Newport News city,Yes,Neither,Q3,Q3
+"Niagara County, NY",36063,NY,0,1745,37.36,,1.66,82.7,1.37,38.301,3247.9,2.023,17.3,Larger county (100k+),36063,Niagara County,Yes,Neither,Q2,Q2
+"Norfolk County, MA",25021,MA,0,6836,19.17,0.62,1.33,85.27,2.62,38.521,3291.8,1.938,14.73,Larger county (100k+),25021,Norfolk County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Norfolk city, VA",51710,VA,0,2914,39.67,1.89,1.41,82.76,1.16,38.153,3182.6,2.296,17.24,Larger county (100k+),51710,Norfolk city,Yes,Neither,Q3,Q2
+"Northampton County, PA",42095,PA,0,2589,28.43,1.16,0.62,85.59,2.28,38.305,3265.7,2.144,14.41,Larger county (100k+),42095,Northampton County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Nueces County, TX",48355,TX,0,4173,62.9,6.42,2.73,63.55,5.34,38.153,3169.8,1.967,36.45,Larger county (100k+),48355,Nueces County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Oakland County, MI",26125,MI,0,12201,22.51,1.64,1.28,85.29,2.71,38.389,3261.9,2.068,14.71,Larger county (100k+),26125,Oakland County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Ocean County, NJ",34029,NJ,0,10735,33.66,2.73,0.92,78.59,4.14,38.801,3328.8,1.825,21.41,Larger county (100k+),34029,Ocean County,Yes,Neither,Q2,Q3
+"Okaloosa County, FL",12091,FL,0,2610,26.7,6.25,2.33,70.8,4.38,38.241,3261.0,1.988,29.2,Larger county (100k+),12091,Okaloosa County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Oklahoma County, OK",40109,OK,0,10778,52.89,2.82,2.06,79.51,2.98,38.151,3220.1,2.052,20.49,Larger county (100k+),40109,Oklahoma County,Yes,High Medicaid only,Q4 (highest),Q2
+"Olmsted County, MN",27109,MN,0,1780,28.99,1.07,,90.62,,38.445,3291.2,2.027,9.38,Larger county (100k+),27109,Olmsted County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Oneida County, NY",36065,NY,0,2104,52.04,1.17,0.57,80.11,2.25,38.123,3224.2,2.068,19.89,Larger county (100k+),36065,Oneida County,Yes,High Medicaid only,Q4 (highest),Q2
+"Onondaga County, NY",36067,NY,0,4291,37.4,0.26,1.37,83.48,2.82,38.48,3253.8,2.171,16.52,Larger county (100k+),36067,Onondaga County,Yes,Neither,Q2,Q2
+"Onslow County, NC",37133,NC,0,3641,24.83,1.32,4.78,70.94,5.09,38.458,3307.2,2.007,29.06,Larger county (100k+),37133,Onslow County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Ontario County, NY",36069,NY,0,886,37.7,2.93,,90.07,,38.538,3319.3,1.977,9.93,Larger county (100k+),36069,Ontario County,Yes,Neither,Q2,Q1 (lowest)
+"Orange County, CA",6059,CA,0,30893,29.68,7.17,0.62,89.79,1.67,38.436,3248.1,1.887,10.21,Larger county (100k+),06059,Orange County,Yes,Neither,Q2,Q1 (lowest)
+"Orange County, FL",12095,FL,0,16384,38.15,5.22,4.12,62.11,7.67,38.231,3189.3,2.191,37.89,Larger county (100k+),12095,Orange County,Yes,Low early care only,Q2,Q4 (highest)
+"Orange County, NC",37135,NC,0,1029,21.57,10.69,,82.6,,38.484,3269.6,1.921,17.4,Larger county (100k+),37135,Orange County,Yes,Neither,Q1 (lowest),Q2
+"Orange County, NY",36071,NY,0,5632,51.31,0.59,0.95,75.44,4.37,38.647,3290.9,1.995,24.56,Larger county (100k+),36071,Orange County,Yes,High Medicaid only,Q4 (highest),Q3
+"Orleans Parish, LA",22071,LA,0,3690,62.66,1.03,3.17,62.36,7.64,37.969,3094.1,2.33,37.64,Larger county (100k+),22071,Orleans Parish,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Osceola County, FL",12097,FL,0,5060,37.1,3.07,2.51,71.74,4.99,38.21,3208.7,2.143,28.26,Larger county (100k+),12097,Osceola County,Yes,Low early care only,Q2,Q4 (highest)
+"Oswego County, NY",36075,NY,0,1030,29.35,,1.38,88.44,,38.416,3296.5,2.071,11.56,Larger county (100k+),36075,Oswego County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Ottawa County, MI",26139,MI,0,3082,18.3,3.31,1.17,83.32,3.96,38.375,3348.2,1.832,16.68,Larger county (100k+),26139,Ottawa County,Yes,Neither,Q1 (lowest),Q2
+"Ouachita Parish, LA",22073,LA,0,1796,67.87,0.67,2.51,62.25,7.91,37.612,3058.2,2.391,37.75,Larger county (100k+),22073,Ouachita Parish,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Outagamie County, WI",55087,WI,0,2096,24.57,1.46,,90.12,0.63,38.461,3328.1,1.981,9.88,Larger county (100k+),55087,Outagamie County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Palm Beach County, FL",12099,FL,0,14885,42.93,2.87,3.8,65.14,7.96,38.216,3201.2,2.18,34.86,Larger county (100k+),12099,Palm Beach County,Yes,Low early care only,Q3,Q4 (highest)
+"Parker County, TX",48367,TX,0,2026,27.27,6.28,2.67,78.61,2.32,38.338,3328.7,2.009,21.39,Larger county (100k+),48367,Parker County,Yes,Neither,Q1 (lowest),Q3
+"Pasco County, FL",12101,FL,0,6187,37.59,3.12,1.87,75.22,4.61,38.25,3258.1,2.089,24.78,Larger county (100k+),12101,Pasco County,Yes,Neither,Q2,Q3
+"Passaic County, NJ",34031,NJ,0,6097,43.81,11.77,2.81,66.64,6.45,38.189,3209.3,2.014,33.36,Larger county (100k+),34031,Passaic County,Yes,Low early care only,Q3,Q4 (highest)
+"Paulding County, GA",13223,GA,0,1767,32.31,2.66,4.13,74.53,2.04,38.166,3225.3,2.099,25.47,Larger county (100k+),13223,Paulding County,Yes,Neither,Q2,Q3
+"Pennington County, SD",46103,SD,0,1286,30.79,5.91,1.71,74.11,3.34,38.536,3307.9,1.795,25.89,Larger county (100k+),46103,Pennington County,Yes,Neither,Q2,Q3
+"Penobscot County, ME",23019,ME,0,1224,45.18,4.49,,88.73,0.98,38.283,3347.4,2.003,11.27,Larger county (100k+),23019,Penobscot County,Yes,Neither,Q3,Q1 (lowest)
+"Peoria County, IL",17143,IL,0,2035,49.58,3.0,0.84,77.49,2.65,38.166,3212.9,2.221,22.51,Larger county (100k+),17143,Peoria County,Yes,High Medicaid only,Q4 (highest),Q3
+"Philadelphia County, PA",42101,PA,0,18109,56.71,1.52,4.09,67.27,7.67,38.246,3159.3,2.265,32.73,Larger county (100k+),42101,Philadelphia County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Pickens County, SC",45077,SC,0,1218,40.39,3.53,,90.48,,38.121,3283.7,2.157,9.52,Larger county (100k+),45077,Pickens County,Yes,Neither,Q3,Q1 (lowest)
+"Pierce County, WA",53053,WA,0,10457,35.47,0.78,2.31,69.98,6.92,38.501,3314.0,2.032,30.02,Larger county (100k+),53053,Pierce County,Yes,Low early care only,Q2,Q4 (highest)
+"Pima County, AZ",4019,AZ,0,9710,45.26,5.83,3.93,70.83,5.99,38.352,3230.9,1.953,29.17,Larger county (100k+),04019,Pima County,Yes,Low early care only,Q3,Q4 (highest)
+"Pinal County, AZ",4021,AZ,0,5556,40.23,5.42,1.39,78.32,4.72,38.322,3294.5,2.181,21.68,Larger county (100k+),04021,Pinal County,Yes,Neither,Q3,Q3
+"Pinellas County, FL",12103,FL,0,6938,35.39,5.15,1.75,77.57,4.0,38.455,3266.9,2.112,22.43,Larger county (100k+),12103,Pinellas County,Yes,Neither,Q2,Q3
+"Pitt County, NC",37147,NC,0,2039,50.81,5.44,1.18,80.24,2.11,37.931,3171.6,2.479,19.76,Larger county (100k+),37147,Pitt County,Yes,High Medicaid only,Q4 (highest),Q2
+"Placer County, CA",6061,CA,0,3882,20.81,1.65,0.34,87.93,0.7,38.717,3376.4,1.888,12.07,Larger county (100k+),06061,Placer County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Plymouth County, MA",25023,MA,0,5342,27.36,,0.85,80.86,3.98,38.582,3331.7,1.882,19.14,Larger county (100k+),25023,Plymouth County,Yes,Neither,Q1 (lowest),Q2
+"Polk County, FL",12105,FL,0,9420,52.52,3.9,2.95,65.2,5.5,38.259,3217.8,2.218,34.8,Larger county (100k+),12105,Polk County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Polk County, IA",19153,IA,0,6535,35.26,6.29,0.93,79.16,2.46,38.403,3300.8,2.132,20.84,Larger county (100k+),19153,Polk County,Yes,Neither,Q2,Q2
+"Portage County, OH",39133,OH,0,1271,33.91,1.81,1.02,79.39,1.89,38.189,3265.3,2.187,20.61,Larger county (100k+),39133,Portage County,Yes,Neither,Q2,Q2
+"Porter County, IN",18127,IN,0,1530,29.02,0.92,0.72,78.3,1.24,38.135,3264.9,2.168,21.7,Larger county (100k+),18127,Porter County,Yes,Neither,Q1 (lowest),Q3
+"Potter County, TX",48375,TX,0,1423,75.61,1.41,2.39,60.86,4.85,38.186,3160.9,2.118,39.14,Larger county (100k+),48375,Potter County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Prince George's County, MD",24033,MD,0,10332,59.3,0.95,3.24,63.77,6.6,38.298,3202.0,2.258,36.23,Larger county (100k+),24033,Prince George's County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Prince William County, VA",51153,VA,0,6092,35.51,2.41,10.54,68.92,4.43,38.4,3263.1,2.126,31.08,Larger county (100k+),51153,Prince William County,Yes,Low early care only,Q2,Q4 (highest)
+"Providence County, RI",44007,RI,0,6682,51.17,,0.83,83.47,1.31,38.485,3267.5,2.061,16.53,Larger county (100k+),44007,Providence County,Yes,High Medicaid only,Q4 (highest),Q2
+"Pueblo County, CO",8101,CO,0,1544,56.28,1.94,3.05,72.28,2.36,38.109,3128.2,2.144,27.72,Larger county (100k+),08101,Pueblo County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Pulaski County, AR",5119,AR,0,4663,42.5,3.67,2.05,70.73,5.69,37.987,3126.0,2.229,29.27,Larger county (100k+),05119,Pulaski County,Yes,Low early care only,Q3,Q4 (highest)
+"Queens County, NY",36081,NY,0,24081,60.83,0.47,1.66,75.65,6.13,38.384,3183.8,1.945,24.35,Larger county (100k+),36081,Queens County,Yes,High Medicaid only,Q4 (highest),Q3
+"Racine County, WI",55101,WI,0,1996,42.48,,0.81,85.11,2.79,38.187,3247.9,2.214,14.89,Larger county (100k+),55101,Racine County,Yes,Neither,Q3,Q1 (lowest)
+"Ramsey County, MN",27123,MN,0,6210,48.84,1.72,1.06,78.19,2.86,38.417,3242.3,2.173,21.81,Larger county (100k+),27123,Ramsey County,Yes,High Medicaid only,Q4 (highest),Q3
+"Randall County, TX",48381,TX,0,1704,41.02,3.64,0.59,79.58,2.58,38.207,3184.5,2.236,20.42,Larger county (100k+),48381,Randall County,Yes,Neither,Q3,Q2
+"Randolph County, NC",37151,NC,0,1515,47.85,7.0,0.66,81.58,2.97,38.249,3268.0,2.05,18.42,Larger county (100k+),37151,Randolph County,Yes,High Medicaid only,Q4 (highest),Q2
+"Rankin County, MS",28121,MS,0,1589,34.93,5.16,,84.07,2.09,37.773,3180.8,2.028,15.93,Larger county (100k+),28121,Rankin County,Yes,Neither,Q2,Q1 (lowest)
+"Rapides Parish, LA",22079,LA,0,1488,69.62,,1.55,93.01,,37.794,3105.7,2.271,6.99,Larger county (100k+),22079,Rapides Parish,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Rensselaer County, NY",36083,NY,0,1439,39.82,,,84.09,3.41,38.456,3299.9,2.168,15.91,Larger county (100k+),36083,Rensselaer County,Yes,Neither,Q3,Q1 (lowest)
+"Richland County, OH",39139,OH,0,1296,44.98,10.03,0.77,80.32,2.7,38.212,3260.8,2.052,19.68,Larger county (100k+),39139,Richland County,Yes,Neither,Q3,Q2
+"Richland County, SC",45079,SC,0,4415,42.27,4.78,1.83,73.79,4.94,37.949,3133.8,2.238,26.21,Larger county (100k+),45079,Richland County,Yes,Neither,Q3,Q3
+"Richmond County, GA",13245,GA,0,2690,59.81,2.16,11.0,52.55,8.71,38.166,3126.7,2.372,47.45,Larger county (100k+),13245,Richmond County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Richmond County, NY",36085,NY,0,4923,49.99,0.3,0.53,90.86,1.81,38.329,3212.2,1.898,9.14,Larger county (100k+),36085,Richmond County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Richmond city, VA",51760,VA,0,2857,55.72,1.82,2.95,77.95,3.48,38.126,3144.2,2.589,22.05,Larger county (100k+),51760,Richmond city,Yes,High Medicaid only,Q4 (highest),Q3
+"Riverside County, CA",6065,CA,0,26959,45.97,3.32,1.11,82.23,2.65,38.408,3258.8,2.068,17.77,Larger county (100k+),06065,Riverside County,Yes,Neither,Q3,Q2
+"Robeson County, NC",37155,NC,0,1911,62.79,12.24,10.57,61.59,7.01,38.281,3139.2,2.251,38.41,Larger county (100k+),37155,Robeson County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Rock County, WI",55105,WI,0,1773,42.58,0.62,0.8,82.57,3.21,38.266,3276.7,2.226,17.43,Larger county (100k+),55105,Rock County,Yes,Neither,Q3,Q2
+"Rock Island County, IL",17161,IL,0,1446,54.22,0.83,1.04,74.27,5.05,38.183,3224.6,2.046,25.73,Larger county (100k+),17161,Rock Island County,Yes,High Medicaid only,Q4 (highest),Q3
+"Rockingham County, NH",33015,NH,0,2573,9.25,1.44,,91.88,1.75,38.664,3381.1,1.879,8.12,Larger county (100k+),33015,Rockingham County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Rockland County, NY",36087,NY,0,6907,67.03,0.71,0.99,74.5,4.13,38.843,3313.5,1.913,25.5,Larger county (100k+),36087,Rockland County,Yes,High Medicaid only,Q4 (highest),Q3
+"Rowan County, NC",37159,NC,0,1485,42.36,10.17,2.63,80.88,0.74,38.274,3267.8,2.096,19.12,Larger county (100k+),37159,Rowan County,Yes,Neither,Q3,Q2
+"Rutherford County, TN",47149,TN,0,4601,41.46,1.72,1.42,75.63,4.2,38.158,3246.6,1.977,24.37,Larger county (100k+),47149,Rutherford County,Yes,Neither,Q3,Q3
+"Sacramento County, CA",6067,CA,0,17355,44.11,0.92,1.09,85.2,2.49,38.52,3294.0,2.081,14.8,Larger county (100k+),06067,Sacramento County,Yes,Neither,Q3,Q1 (lowest)
+"Saginaw County, MI",26145,MI,0,1769,54.95,0.9,1.02,80.07,3.67,38.146,3206.0,2.3,19.93,Larger county (100k+),26145,Saginaw County,Yes,High Medicaid only,Q4 (highest),Q2
+"Saline County, AR",5125,AR,0,1380,36.3,1.88,1.59,78.62,2.61,37.903,3196.3,2.071,21.38,Larger county (100k+),05125,Saline County,Yes,Neither,Q2,Q3
+"Salt Lake County, UT",49035,UT,0,14554,21.18,8.32,1.16,75.58,5.45,38.324,3224.5,1.982,24.42,Larger county (100k+),49035,Salt Lake County,Yes,Neither,Q1 (lowest),Q3
+"San Bernardino County, CA",6071,CA,0,25245,47.82,2.63,1.11,82.72,2.75,38.332,3224.7,2.059,17.28,Larger county (100k+),06071,San Bernardino County,Yes,High Medicaid only,Q4 (highest),Q2
+"San Diego County, CA",6073,CA,0,35870,32.16,4.75,0.6,85.34,2.75,38.527,3279.7,2.038,14.66,Larger county (100k+),06073,San Diego County,Yes,Neither,Q2,Q1 (lowest)
+"San Francisco County, CA",6075,CA,0,6877,25.43,0.89,0.28,89.25,1.76,38.592,3245.5,1.857,10.75,Larger county (100k+),06075,San Francisco County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"San Joaquin County, CA",6077,CA,0,9639,46.65,0.37,0.83,83.26,3.9,38.447,3259.3,2.127,16.74,Larger county (100k+),06077,San Joaquin County,Yes,Neither,Q3,Q2
+"San Juan County, NM",35045,NM,0,1139,70.85,1.49,1.16,69.52,4.63,38.389,3239.2,1.932,30.48,Larger county (100k+),35045,San Juan County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"San Luis Obispo County, CA",6079,CA,0,2289,42.73,3.76,,81.75,2.52,38.644,3317.0,1.805,18.25,Larger county (100k+),06079,San Luis Obispo County,Yes,Neither,Q3,Q2
+"San Mateo County, CA",6081,CA,0,7212,24.46,0.61,,92.57,0.9,38.489,3250.1,1.818,7.43,Larger county (100k+),06081,San Mateo County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Sandoval County, NM",35043,NM,0,1287,47.16,0.78,3.26,79.14,2.61,38.281,3194.5,1.896,20.86,Larger county (100k+),35043,Sandoval County,Yes,Neither,Q3,Q2
+"Sangamon County, IL",17167,IL,0,1783,14.64,,1.01,84.8,1.63,37.645,3105.1,2.501,15.2,Larger county (100k+),17167,Sangamon County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Santa Barbara County, CA",6083,CA,0,5301,61.97,1.92,0.57,74.61,3.36,38.62,3287.0,1.927,25.39,Larger county (100k+),06083,Santa Barbara County,Yes,High Medicaid only,Q4 (highest),Q3
+"Santa Clara County, CA",6085,CA,0,18671,25.14,1.09,0.26,88.95,1.82,38.499,3221.8,1.89,11.05,Larger county (100k+),06085,Santa Clara County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Santa Cruz County, CA",6087,CA,0,2000,43.8,2.05,,89.4,1.22,38.548,3314.7,1.863,10.6,Larger county (100k+),06087,Santa Cruz County,Yes,Neither,Q3,Q1 (lowest)
+"Santa Fe County, NM",35049,NM,0,1021,47.89,19.0,4.27,74.01,7.84,38.376,3110.1,1.898,25.99,Larger county (100k+),35049,Santa Fe County,Yes,High Medicaid only,Q4 (highest),Q3
+"Santa Rosa County, FL",12113,FL,0,1872,27.4,3.79,0.59,77.6,2.53,38.097,3290.5,1.929,22.4,Larger county (100k+),12113,Santa Rosa County,Yes,Neither,Q1 (lowest),Q3
+"Sarasota County, FL",12115,FL,0,3155,30.52,9.54,2.29,64.43,6.66,38.429,3287.2,2.104,35.57,Larger county (100k+),12115,Sarasota County,Yes,Low early care only,Q2,Q4 (highest)
+"Saratoga County, NY",36091,NY,0,1911,20.15,,,91.63,0.52,38.562,3338.0,2.064,8.37,Larger county (100k+),36091,Saratoga County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Sarpy County, NE",31153,NE,0,2319,23.54,2.24,0.61,87.21,0.48,38.13,3284.9,1.968,12.79,Larger county (100k+),31153,Sarpy County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Schenectady County, NY",36093,NY,0,1640,36.65,,0.98,82.2,3.41,38.204,3202.6,2.317,17.8,Larger county (100k+),36093,Schenectady County,Yes,Neither,Q2,Q2
+"Schuylkill County, PA",42107,PA,0,1243,46.18,3.7,1.13,84.07,2.57,38.437,3267.2,1.848,15.93,Larger county (100k+),42107,Schuylkill County,Yes,Neither,Q3,Q1 (lowest)
+"Scott County, IA",19163,IA,0,1819,37.93,2.03,0.88,82.57,2.86,38.325,3318.6,1.95,17.43,Larger county (100k+),19163,Scott County,Yes,Neither,Q2,Q2
+"Scott County, MN",27139,MN,0,1591,24.39,1.45,,88.87,0.75,38.406,3333.2,2.086,11.13,Larger county (100k+),27139,Scott County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Sebastian County, AR",5131,AR,0,1542,48.25,1.1,1.62,67.64,5.45,38.294,3254.2,2.167,32.36,Larger county (100k+),05131,Sebastian County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Sedgwick County, KS",20173,KS,0,6413,34.35,9.18,1.17,88.51,1.34,38.258,3258.2,1.994,11.49,Larger county (100k+),20173,Sedgwick County,Yes,Neither,Q2,Q1 (lowest)
+"Seminole County, FL",12117,FL,0,4305,31.53,2.66,1.72,69.96,5.14,38.292,3225.6,2.065,30.04,Larger county (100k+),12117,Seminole County,Yes,Low early care only,Q2,Q4 (highest)
+"Shasta County, CA",6089,CA,0,1649,53.12,4.37,0.84,81.12,1.87,38.571,3304.5,2.027,18.88,Larger county (100k+),06089,Shasta County,Yes,High Medicaid only,Q4 (highest),Q2
+"Shawnee County, KS",20177,KS,0,1817,44.25,3.41,1.05,81.23,2.75,37.974,3232.1,2.175,18.77,Larger county (100k+),20177,Shawnee County,Yes,Neither,Q3,Q2
+"Sheboygan County, WI",55117,WI,0,995,32.46,1.21,,91.47,,38.362,3283.8,2.058,8.53,Larger county (100k+),55117,Sheboygan County,Yes,Neither,Q2,Q1 (lowest)
+"Shelby County, AL",1117,AL,0,2232,23.57,2.91,0.49,79.26,3.05,38.123,3261.8,1.941,20.74,Larger county (100k+),01117,Shelby County,Yes,Neither,Q1 (lowest),Q2
+"Shelby County, TN",47157,TN,0,11492,60.58,2.46,3.77,61.72,6.59,38.069,3116.5,2.407,38.28,Larger county (100k+),47157,Shelby County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Skagit County, WA",53057,WA,0,1275,48.71,0.78,0.95,72.39,4.19,38.475,3326.1,1.941,27.61,Larger county (100k+),53057,Skagit County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Smith County, TX",48423,TX,0,3105,47.02,10.66,1.73,74.17,5.14,38.227,3248.8,2.048,25.83,Larger county (100k+),48423,Smith County,Yes,Neither,Q3,Q3
+"Snohomish County, WA",53061,WA,0,9750,29.75,0.87,0.41,80.61,4.19,38.563,3310.6,1.991,19.39,Larger county (100k+),53061,Snohomish County,Yes,Neither,Q2,Q2
+"Solano County, CA",6095,CA,0,4564,37.23,0.92,0.55,81.97,5.45,38.48,3290.2,2.04,18.03,Larger county (100k+),06095,Solano County,Yes,Neither,Q2,Q2
+"Somerset County, NJ",34035,NJ,0,3173,17.18,4.76,0.85,79.24,3.54,38.484,3257.2,1.914,20.76,Larger county (100k+),34035,Somerset County,Yes,Neither,Q1 (lowest),Q2
+"Sonoma County, CA",6097,CA,0,4281,39.06,1.89,0.26,89.11,2.09,38.717,3343.0,1.825,10.89,Larger county (100k+),06097,Sonoma County,Yes,Neither,Q2,Q1 (lowest)
+"Spartanburg County, SC",45083,SC,0,4457,42.49,4.78,1.35,75.34,4.04,38.3,3266.2,1.994,24.66,Larger county (100k+),45083,Spartanburg County,Yes,Neither,Q3,Q3
+"Spokane County, WA",53063,WA,0,5952,39.67,3.11,0.82,74.95,5.4,38.555,3314.6,1.976,25.05,Larger county (100k+),53063,Spokane County,Yes,Neither,Q3,Q3
+"Spotsylvania County, VA",51177,VA,0,1567,41.93,1.28,0.96,72.45,4.11,38.446,3308.0,2.163,27.55,Larger county (100k+),51177,Spotsylvania County,Yes,Low early care only,Q3,Q4 (highest)
+"St. Charles County, MO",29183,MO,0,4036,14.8,1.11,1.14,81.11,2.42,38.223,3286.1,1.923,18.89,Larger county (100k+),29183,St. Charles County,Yes,Neither,Q1 (lowest),Q2
+"St. Clair County, IL",17163,IL,0,2383,38.83,0.42,2.31,75.33,2.64,38.068,3165.7,2.142,24.67,Larger county (100k+),17163,St. Clair County,Yes,Neither,Q2,Q3
+"St. Clair County, MI",26147,MI,0,1376,36.89,0.89,0.73,82.34,1.45,38.33,3306.4,1.982,17.66,Larger county (100k+),26147,St. Clair County,Yes,Neither,Q2,Q2
+"St. Johns County, FL",12109,FL,0,2564,16.45,3.46,3.02,78.13,3.95,38.364,3301.8,1.972,21.87,Larger county (100k+),12109,St. Johns County,Yes,Neither,Q1 (lowest),Q3
+"St. Joseph County, IN",18141,IN,0,3028,51.02,1.78,1.25,76.52,2.91,38.296,3263.5,2.044,23.48,Larger county (100k+),18141,St. Joseph County,Yes,High Medicaid only,Q4 (highest),Q3
+"St. Lawrence County, NY",36089,NY,0,865,41.05,4.88,1.78,81.91,1.4,38.785,3367.4,1.884,18.09,Larger county (100k+),36089,St. Lawrence County,Yes,Neither,Q3,Q2
+"St. Louis County, MN",27137,MN,0,1629,28.61,3.81,,93.68,,38.503,3357.8,1.917,6.32,Larger county (100k+),27137,St. Louis County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"St. Louis County, MO",29189,MO,0,9870,31.58,1.34,3.05,73.64,4.35,38.119,3198.5,2.146,26.36,Larger county (100k+),29189,St. Louis County,Yes,Neither,Q2,Q3
+"St. Louis city, MO",29510,MO,0,3079,48.8,1.02,7.94,63.67,8.6,38.102,3127.8,2.166,36.33,Larger county (100k+),29510,St. Louis city,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"St. Lucie County, FL",12111,FL,0,3820,54.02,2.02,3.58,64.79,5.93,38.365,3256.0,2.123,35.21,Larger county (100k+),12111,St. Lucie County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"St. Mary's County, MD",24037,MD,0,1249,25.7,6.0,,86.11,2.53,38.382,3306.7,2.077,13.89,Larger county (100k+),24037,St. Mary's County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"St. Tammany Parish, LA",22103,LA,0,2642,47.54,1.97,1.36,76.15,4.54,38.135,3240.2,2.048,23.85,Larger county (100k+),22103,St. Tammany Parish,Yes,High Medicaid only,Q4 (highest),Q3
+"Stafford County, VA",51179,VA,0,1784,31.28,2.13,0.78,76.68,2.8,38.447,3299.6,2.078,23.32,Larger county (100k+),51179,Stafford County,Yes,Neither,Q2,Q3
+"Stanislaus County, CA",6099,CA,0,6645,47.51,1.44,1.47,85.64,1.99,38.542,3306.2,2.034,14.36,Larger county (100k+),06099,Stanislaus County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Stark County, OH",39151,OH,0,3734,41.08,7.47,1.42,74.26,4.53,38.293,3240.7,2.137,25.74,Larger county (100k+),39151,Stark County,Yes,Neither,Q3,Q3
+"Stearns County, MN",27145,MN,0,1914,46.81,1.72,,81.3,4.08,38.343,3304.3,2.209,18.7,Larger county (100k+),27145,Stearns County,Yes,Neither,Q3,Q2
+"Strafford County, NH",33017,NH,0,1021,17.92,2.74,,92.85,,38.66,3354.3,2.014,7.15,Larger county (100k+),33017,Strafford County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Suffolk County, MA",25025,MA,0,8214,40.14,3.02,3.54,76.0,3.7,38.442,3224.5,2.068,24.0,Larger county (100k+),25025,Suffolk County,Yes,Neither,Q3,Q3
+"Suffolk County, NY",36103,NY,0,15634,36.31,0.51,0.52,83.01,4.13,38.342,3268.6,1.923,16.99,Larger county (100k+),36103,Suffolk County,Yes,Neither,Q2,Q2
+"Sullivan County, TN",47163,TN,0,1521,49.64,0.92,0.79,87.71,1.91,38.292,3300.9,2.009,12.29,Larger county (100k+),47163,Sullivan County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Summit County, OH",39153,OH,0,5261,40.81,3.95,2.45,77.87,3.46,38.202,3213.9,2.238,22.13,Larger county (100k+),39153,Summit County,Yes,Neither,Q3,Q3
+"Sumner County, TN",47165,TN,0,2329,37.01,2.02,1.16,73.08,4.47,38.459,3324.4,1.82,26.92,Larger county (100k+),47165,Sumner County,Yes,Neither,Q2,Q3
+"Sumter County, SC",45085,SC,0,1180,49.75,1.86,,83.98,2.2,37.866,3152.9,2.245,16.02,Larger county (100k+),45085,Sumter County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Sussex County, DE",10005,DE,0,2375,47.24,1.89,1.41,62.93,7.91,38.3,3256.7,2.015,37.07,Larger county (100k+),10005,Sussex County,Yes,Low early care only,Q3,Q4 (highest)
+"Sussex County, NJ",34037,NJ,0,1255,10.28,,0.8,86.14,1.51,38.419,3311.1,2.071,13.86,Larger county (100k+),34037,Sussex County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Tangipahoa Parish, LA",22105,LA,0,1778,69.24,,2.66,73.36,3.85,37.931,3118.7,2.139,26.64,Larger county (100k+),22105,Tangipahoa Parish,Yes,High Medicaid only,Q4 (highest),Q3
+"Tarrant County, TX",48439,TX,0,27462,40.2,7.46,8.0,63.84,6.37,38.201,3224.4,2.128,36.16,Larger county (100k+),48439,Tarrant County,Yes,Low early care only,Q3,Q4 (highest)
+"Taylor County, TX",48441,TX,0,1824,44.47,4.24,1.32,65.57,7.4,38.079,3197.3,1.917,34.43,Larger county (100k+),48441,Taylor County,Yes,Low early care only,Q3,Q4 (highest)
+"Tazewell County, IL",17179,IL,0,1164,31.79,3.61,,87.37,,38.385,3356.2,2.095,12.63,Larger county (100k+),17179,Tazewell County,Yes,Neither,Q2,Q1 (lowest)
+"Terrebonne Parish, LA",22109,LA,0,1109,76.74,,2.07,78.72,3.79,37.645,3116.9,2.308,21.28,Larger county (100k+),22109,Terrebonne Parish,Yes,High Medicaid only,Q4 (highest),Q3
+"Thurston County, WA",53067,WA,0,2941,30.86,0.52,0.97,65.15,8.17,38.595,3368.9,2.031,34.85,Larger county (100k+),53067,Thurston County,Yes,Low early care only,Q2,Q4 (highest)
+"Tippecanoe County, IN",18157,IN,0,1725,24.75,2.49,,83.65,2.43,38.249,3239.5,1.975,16.35,Larger county (100k+),18157,Tippecanoe County,Yes,Neither,Q1 (lowest),Q2
+"Tolland County, CT",9013,CT,0,1079,24.0,,,87.21,1.02,38.519,3329.1,2.054,12.79,Larger county (100k+),09013,Tolland County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Tom Green County, TX",48451,TX,0,1382,45.55,2.15,0.72,88.71,0.8,38.002,3199.4,1.993,11.29,Larger county (100k+),48451,Tom Green County,Yes,Neither,Q3,Q1 (lowest)
+"Tompkins County, NY",36109,NY,0,546,33.7,,,91.03,,38.816,3353.5,1.753,8.97,Larger county (100k+),36109,Tompkins County,Yes,Neither,Q2,Q1 (lowest)
+"Travis County, TX",48453,TX,0,16607,36.12,6.68,5.49,75.24,3.64,38.406,3250.9,2.066,24.76,Larger county (100k+),48453,Travis County,Yes,Neither,Q2,Q3
+"Trumbull County, OH",39155,OH,0,1844,52.6,5.75,0.65,79.83,3.04,38.25,3247.5,1.864,20.17,Larger county (100k+),39155,Trumbull County,Yes,High Medicaid only,Q4 (highest),Q2
+"Tulare County, CA",6107,CA,0,6501,62.07,0.49,0.47,74.62,2.49,38.363,3275.0,2.047,25.38,Larger county (100k+),06107,Tulare County,Yes,High Medicaid only,Q4 (highest),Q3
+"Tulsa County, OK",40143,OK,0,8577,51.51,4.31,1.68,72.73,5.07,38.16,3228.9,2.112,27.27,Larger county (100k+),40143,Tulsa County,Yes,High Medicaid only,Q4 (highest),Q3
+"Tuscaloosa County, AL",1125,AL,0,2487,43.26,1.13,1.93,67.67,4.42,37.997,3167.2,2.333,32.33,Larger county (100k+),01125,Tuscaloosa County,Yes,Low early care only,Q3,Q4 (highest)
+"Ulster County, NY",36111,NY,0,1378,39.11,,,79.87,4.4,38.648,3311.3,1.849,20.13,Larger county (100k+),36111,Ulster County,Yes,Neither,Q2,Q2
+"Unidentified Counties, AK",2999,AK,1,5385,39.69,2.78,0.77,74.62,5.09,38.452,3376.1,2.022,25.38,"Small counties (<100k, pooled)",02999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, AL",1999,AL,1,23044,45.73,2.28,3.84,70.54,5.71,38.043,3203.7,2.153,29.46,"Small counties (<100k, pooled)",01999,Unidentified Counties,No (pooled),Low early care only,Q3,Q4 (highest)
+"Unidentified Counties, AR",5999,AR,1,18693,47.91,5.23,2.9,70.68,5.92,38.012,3192.3,2.209,29.32,"Small counties (<100k, pooled)",05999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, AZ",4999,AZ,1,2421,58.2,5.12,3.91,64.09,7.96,38.27,3236.6,1.931,35.91,"Small counties (<100k, pooled)",04999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, CA",6999,CA,1,9260,50.9,2.62,0.92,76.64,3.27,38.492,3290.6,1.987,23.36,"Small counties (<100k, pooled)",06999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q3
+"Unidentified Counties, CO",8999,CO,1,8027,40.5,7.25,1.9,77.53,4.25,38.383,3152.8,1.96,22.47,"Small counties (<100k, pooled)",08999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, FL",12999,FL,1,13502,49.93,5.82,3.88,64.63,6.63,38.197,3234.9,2.224,35.37,"Small counties (<100k, pooled)",12999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, GA",13999,GA,1,41934,47.67,6.65,4.15,71.83,5.03,38.055,3190.9,2.164,28.17,"Small counties (<100k, pooled)",13999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, HI",15999,HI,1,621,35.1,8.53,,90.66,,38.614,3253.4,2.027,9.34,"Small counties (<100k, pooled)",15999,Unidentified Counties,No (pooled),Neither,Q2,Q1 (lowest)
+"Unidentified Counties, IA",19999,IA,1,20822,34.31,5.86,1.23,80.71,3.43,38.32,3326.9,1.963,19.29,"Small counties (<100k, pooled)",19999,Unidentified Counties,No (pooled),Neither,Q2,Q2
+"Unidentified Counties, ID",16999,ID,1,10313,29.91,9.99,0.74,77.21,3.96,38.462,3269.5,2.004,22.79,"Small counties (<100k, pooled)",16999,Unidentified Counties,No (pooled),Neither,Q2,Q3
+"Unidentified Counties, IL",17999,IL,1,19246,39.11,3.45,1.52,79.71,3.14,38.147,3267.2,2.092,20.29,"Small counties (<100k, pooled)",17999,Unidentified Counties,No (pooled),Neither,Q2,Q2
+"Unidentified Counties, IN",18999,IN,1,28721,36.35,9.04,1.43,77.46,4.29,38.254,3288.7,1.999,22.54,"Small counties (<100k, pooled)",18999,Unidentified Counties,No (pooled),Neither,Q2,Q3
+"Unidentified Counties, KS",20999,KS,1,15481,32.16,8.27,0.88,81.13,3.73,38.3,3289.7,1.99,18.87,"Small counties (<100k, pooled)",20999,Unidentified Counties,No (pooled),Neither,Q2,Q2
+"Unidentified Counties, KY",21999,KY,1,32133,44.64,6.17,1.93,80.19,4.16,38.033,3246.7,2.031,19.81,"Small counties (<100k, pooled)",21999,Unidentified Counties,No (pooled),Neither,Q3,Q2
+"Unidentified Counties, LA",22999,LA,1,16665,66.9,1.06,2.62,74.76,4.82,37.869,3141.0,2.2,25.24,"Small counties (<100k, pooled)",22999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q3
+"Unidentified Counties, MA",25999,MA,1,694,27.82,,,83.6,1.46,38.712,3362.0,1.904,16.4,"Small counties (<100k, pooled)",25999,Unidentified Counties,No (pooled),Neither,Q1 (lowest),Q2
+"Unidentified Counties, MD",24999,MD,1,5508,47.28,1.07,0.81,81.49,3.93,38.4,3259.3,2.185,18.51,"Small counties (<100k, pooled)",24999,Unidentified Counties,No (pooled),Neither,Q3,Q2
+"Unidentified Counties, ME",23999,ME,1,3506,48.06,5.73,0.57,85.03,1.89,38.471,3332.8,1.946,14.97,"Small counties (<100k, pooled)",23999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q1 (lowest)
+"Unidentified Counties, MI",26999,MI,1,19619,36.45,7.54,1.7,73.2,5.27,38.479,3330.5,2.087,26.8,"Small counties (<100k, pooled)",26999,Unidentified Counties,No (pooled),Neither,Q2,Q3
+"Unidentified Counties, MN",27999,MN,1,20995,32.8,4.71,0.76,84.72,2.86,38.386,3347.1,2.01,15.28,"Small counties (<100k, pooled)",27999,Unidentified Counties,No (pooled),Neither,Q2,Q1 (lowest)
+"Unidentified Counties, MO",29999,MO,1,28872,42.47,7.16,1.59,77.28,3.89,38.247,3271.1,1.985,22.72,"Small counties (<100k, pooled)",29999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, MS",28999,MS,1,23331,56.49,4.89,1.43,76.39,4.38,37.796,3112.6,2.304,23.61,"Small counties (<100k, pooled)",28999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q3
+"Unidentified Counties, MT",30999,MT,1,8425,30.82,11.29,1.59,78.34,4.18,38.413,3280.0,1.902,21.66,"Small counties (<100k, pooled)",30999,Unidentified Counties,No (pooled),Neither,Q2,Q3
+"Unidentified Counties, NC",37999,NC,1,31611,44.38,8.12,4.02,73.68,4.91,38.199,3228.1,2.159,26.32,"Small counties (<100k, pooled)",37999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, ND",38999,ND,1,7162,23.85,3.75,1.96,77.12,5.84,38.336,3311.7,1.985,22.88,"Small counties (<100k, pooled)",38999,Unidentified Counties,No (pooled),Neither,Q1 (lowest),Q3
+"Unidentified Counties, NE",31999,NE,1,10502,37.96,2.54,0.87,80.37,3.57,38.269,3280.0,1.966,19.63,"Small counties (<100k, pooled)",31999,Unidentified Counties,No (pooled),Neither,Q2,Q2
+"Unidentified Counties, NH",33999,NH,1,2572,27.49,4.28,0.39,89.58,1.24,38.645,3336.4,1.9,10.42,"Small counties (<100k, pooled)",33999,Unidentified Counties,No (pooled),Neither,Q1 (lowest),Q1 (lowest)
+"Unidentified Counties, NJ",34999,NJ,1,1287,39.16,1.17,1.63,78.79,2.33,38.528,3328.3,1.928,21.21,"Small counties (<100k, pooled)",34999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, NM",35999,NM,1,8685,59.47,7.25,4.56,63.42,9.33,38.28,3162.6,2.011,36.58,"Small counties (<100k, pooled)",35999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, NV",32999,NV,1,3290,34.04,3.34,3.26,69.56,5.02,38.25,3195.9,1.93,30.44,"Small counties (<100k, pooled)",32999,Unidentified Counties,No (pooled),Low early care only,Q2,Q4 (highest)
+"Unidentified Counties, NY",36999,NY,1,16351,41.67,5.75,1.24,79.27,3.73,38.508,3308.1,2.074,20.73,"Small counties (<100k, pooled)",36999,Unidentified Counties,No (pooled),Neither,Q3,Q2
+"Unidentified Counties, OH",39999,OH,1,28675,33.04,10.03,1.17,78.45,3.61,38.286,3294.2,1.996,21.55,"Small counties (<100k, pooled)",39999,Unidentified Counties,No (pooled),Neither,Q2,Q3
+"Unidentified Counties, OK",40999,OK,1,21972,51.91,3.73,1.76,76.19,4.35,38.148,3253.2,2.079,23.81,"Small counties (<100k, pooled)",40999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q3
+"Unidentified Counties, OR",41999,OR,1,9081,51.2,2.27,0.91,81.59,3.43,38.479,3313.9,1.941,18.41,"Small counties (<100k, pooled)",41999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q2
+"Unidentified Counties, PA",42999,PA,1,14796,34.76,13.84,2.26,74.4,6.82,38.516,3310.3,1.993,25.6,"Small counties (<100k, pooled)",42999,Unidentified Counties,No (pooled),Neither,Q2,Q3
+"Unidentified Counties, RI",44999,RI,1,930,22.37,,,92.37,,38.577,3310.6,1.973,7.63,"Small counties (<100k, pooled)",44999,Unidentified Counties,No (pooled),Neither,Q1 (lowest),Q1 (lowest)
+"Unidentified Counties, SC",45999,SC,1,12575,54.96,5.06,2.81,71.75,5.66,37.995,3162.3,2.331,28.25,"Small counties (<100k, pooled)",45999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, SD",46999,SD,1,7192,23.97,6.76,2.1,75.15,5.36,38.19,3291.3,2.128,24.85,"Small counties (<100k, pooled)",46999,Unidentified Counties,No (pooled),Neither,Q1 (lowest),Q3
+"Unidentified Counties, TN",47999,TN,1,32307,51.85,3.86,2.42,76.54,3.98,38.209,3268.1,1.988,23.46,"Small counties (<100k, pooled)",47999,Unidentified Counties,No (pooled),High Medicaid only,Q4 (highest),Q3
+"Unidentified Counties, TX",48999,TX,1,58966,51.53,7.36,3.14,67.45,6.51,38.184,3239.2,2.007,32.55,"Small counties (<100k, pooled)",48999,Unidentified Counties,No (pooled),High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Unidentified Counties, UT",49999,UT,1,6669,19.45,9.81,0.96,80.06,4.13,38.297,3238.3,1.924,19.94,"Small counties (<100k, pooled)",49999,Unidentified Counties,No (pooled),Neither,Q1 (lowest),Q2
+"Unidentified Counties, VA",51999,VA,1,37738,39.59,4.35,2.35,78.16,3.59,38.353,3269.4,2.183,21.84,"Small counties (<100k, pooled)",51999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, VT",50999,VT,1,3677,40.82,2.47,0.6,89.34,1.01,38.675,3335.8,1.879,10.66,"Small counties (<100k, pooled)",50999,Unidentified Counties,No (pooled),Neither,Q3,Q1 (lowest)
+"Unidentified Counties, WA",53999,WA,1,11689,44.72,2.29,1.84,76.85,5.06,38.478,3319.3,1.998,23.15,"Small counties (<100k, pooled)",53999,Unidentified Counties,No (pooled),Neither,Q3,Q3
+"Unidentified Counties, WI",55999,WI,1,20184,31.17,9.5,0.67,81.49,3.57,38.474,3355.5,1.978,18.51,"Small counties (<100k, pooled)",55999,Unidentified Counties,No (pooled),Neither,Q2,Q2
+"Unidentified Counties, WV",54999,WV,1,13758,44.14,3.09,1.98,80.38,3.95,38.043,3218.4,2.115,19.62,"Small counties (<100k, pooled)",54999,Unidentified Counties,No (pooled),Neither,Q3,Q2
+"Unidentified Counties, WY",56999,WY,1,6019,30.56,6.44,1.04,81.04,4.72,38.267,3172.5,1.931,18.96,"Small counties (<100k, pooled)",56999,Unidentified Counties,No (pooled),Neither,Q2,Q2
+"Union County, NC",37179,NC,0,2612,30.7,8.35,2.64,76.42,2.95,38.399,3284.0,1.956,23.58,Larger county (100k+),37179,Union County,Yes,Neither,Q2,Q3
+"Union County, NJ",34039,NJ,0,6473,32.8,11.57,3.02,68.38,5.52,38.468,3250.6,2.012,31.62,Larger county (100k+),34039,Union County,Yes,Low early care only,Q2,Q4 (highest)
+"Utah County, UT",49049,UT,0,12683,11.05,9.07,1.26,80.62,3.97,38.368,3276.4,1.836,19.38,Larger county (100k+),49049,Utah County,Yes,Neither,Q1 (lowest),Q2
+"Vanderburgh County, IN",18163,IN,0,2058,43.54,2.24,0.63,82.36,2.04,38.047,3203.5,1.82,17.64,Larger county (100k+),18163,Vanderburgh County,Yes,Neither,Q3,Q2
+"Ventura County, CA",6111,CA,0,8343,41.04,2.25,0.41,83.04,3.57,38.565,3291.4,1.861,16.96,Larger county (100k+),06111,Ventura County,Yes,Neither,Q3,Q2
+"Vigo County, IN",18167,IN,0,1031,57.13,1.26,,84.87,1.94,38.293,3285.3,1.777,15.13,Larger county (100k+),18167,Vigo County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Virginia Beach city, VA",51810,VA,0,4702,23.18,2.13,1.09,85.34,1.59,38.285,3262.0,2.164,14.66,Larger county (100k+),51810,Virginia Beach city,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Volusia County, FL",12127,FL,0,5001,44.11,3.43,3.01,69.21,5.3,38.219,3227.1,2.156,30.79,Larger county (100k+),12127,Volusia County,Yes,Low early care only,Q3,Q4 (highest)
+"Wake County, NC",37183,NC,0,13332,19.43,9.45,6.21,70.25,5.27,38.464,3269.0,2.025,29.75,Larger county (100k+),37183,Wake County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Walworth County, WI",55127,WI,0,805,34.41,,,88.57,,38.478,3345.5,1.602,11.43,Larger county (100k+),55127,Walworth County,Yes,Neither,Q2,Q1 (lowest)
+"Warren County, KY",21227,KY,0,1816,17.68,5.34,3.97,63.01,9.07,38.313,3275.8,1.912,36.99,Larger county (100k+),21227,Warren County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Warren County, NJ",34041,NJ,0,993,19.84,,,85.5,2.11,38.581,3353.9,1.644,14.5,Larger county (100k+),34041,Warren County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Warren County, OH",39165,OH,0,2376,19.82,5.18,1.09,82.2,1.18,38.363,3317.4,1.975,17.8,Larger county (100k+),39165,Warren County,Yes,Neither,Q1 (lowest),Q2
+"Washington County, AR",5143,AR,0,3347,30.89,14.31,4.09,69.48,10.4,38.298,3263.8,1.942,30.52,Larger county (100k+),05143,Washington County,Yes,Low early care only,Q2,Q4 (highest)
+"Washington County, MD",24043,MD,0,1538,55.14,2.73,0.99,82.86,1.85,38.32,3250.7,1.988,17.14,Larger county (100k+),24043,Washington County,Yes,High Medicaid only,Q4 (highest),Q2
+"Washington County, MN",27163,MN,0,2670,22.36,1.16,,88.31,1.02,38.359,3310.0,1.865,11.69,Larger county (100k+),27163,Washington County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Washington County, OR",41067,OR,0,5959,36.14,0.96,0.51,83.45,3.03,38.606,3320.8,2.009,16.55,Larger county (100k+),41067,Washington County,Yes,Neither,Q2,Q2
+"Washington County, PA",42125,PA,0,1912,30.44,1.41,1.97,82.34,3.88,38.255,3252.1,2.1,17.66,Larger county (100k+),42125,Washington County,Yes,Neither,Q2,Q2
+"Washington County, RI",44009,RI,0,769,18.08,,,93.5,,38.69,3371.6,1.817,6.5,Larger county (100k+),44009,Washington County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Washington County, TN",47179,TN,0,1201,40.88,2.33,0.92,88.93,1.17,38.268,3295.7,2.175,11.07,Larger county (100k+),47179,Washington County,Yes,Neither,Q3,Q1 (lowest)
+"Washington County, UT",49053,UT,0,2449,21.48,15.72,,67.21,4.08,38.389,3274.2,1.812,32.79,Larger county (100k+),49053,Washington County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Washington County, WI",55131,WI,0,1121,16.95,,1.27,93.12,,38.457,3344.1,1.784,6.88,Larger county (100k+),55131,Washington County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Washoe County, NV",32031,NV,0,4939,36.18,3.0,1.85,69.41,5.87,38.391,3207.7,2.002,30.59,Larger county (100k+),32031,Washoe County,Yes,Low early care only,Q2,Q4 (highest)
+"Washtenaw County, MI",26161,MI,0,2883,23.9,1.73,2.95,82.69,4.61,38.461,3289.1,2.058,17.31,Larger county (100k+),26161,Washtenaw County,Yes,Neither,Q1 (lowest),Q2
+"Waukesha County, WI",55133,WI,0,3605,12.26,1.14,0.87,91.38,1.35,38.329,3319.3,1.913,8.62,Larger county (100k+),55133,Waukesha County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Wayne County, MI",26163,MI,0,19716,52.52,1.25,3.37,77.3,4.1,38.11,3157.2,2.41,22.7,Larger county (100k+),26163,Wayne County,Yes,High Medicaid only,Q4 (highest),Q3
+"Wayne County, NC",37191,NC,0,1613,47.61,13.39,3.35,65.28,4.15,38.26,3217.5,2.299,34.72,Larger county (100k+),37191,Wayne County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Wayne County, OH",39169,OH,0,1292,20.98,33.98,,69.89,2.24,38.658,3360.2,1.75,30.11,Larger county (100k+),39169,Wayne County,Yes,Low early care only,Q1 (lowest),Q4 (highest)
+"Webb County, TX",48479,TX,0,4335,60.62,17.43,3.92,74.65,4.31,37.938,3158.5,2.075,25.35,Larger county (100k+),48479,Webb County,Yes,High Medicaid only,Q4 (highest),Q3
+"Weber County, UT",49057,UT,0,3394,18.36,6.92,0.3,82.34,3.38,38.135,3199.2,2.087,17.66,Larger county (100k+),49057,Weber County,Yes,Neither,Q1 (lowest),Q2
+"Weld County, CO",8123,CO,0,5001,35.59,6.8,4.53,78.65,3.55,38.303,3192.0,2.041,21.35,Larger county (100k+),08123,Weld County,Yes,Neither,Q2,Q3
+"Westchester County, NY",36119,NY,0,9714,37.93,0.27,0.47,78.76,3.91,38.444,3256.0,1.868,21.24,Larger county (100k+),36119,Westchester County,Yes,Neither,Q2,Q3
+"Westmoreland County, PA",42129,PA,0,2731,29.18,1.03,1.71,82.91,2.97,38.243,3242.4,2.109,17.09,Larger county (100k+),42129,Westmoreland County,Yes,Neither,Q1 (lowest),Q2
+"Whatcom County, WA",53073,WA,0,1971,40.84,0.91,1.39,81.08,4.07,38.721,3390.7,1.92,18.92,Larger county (100k+),53073,Whatcom County,Yes,Neither,Q3,Q2
+"Whitfield County, GA",13313,GA,0,1221,53.4,16.87,2.56,67.25,7.61,38.274,3276.8,1.922,32.75,Larger county (100k+),13313,Whitfield County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Wichita County, TX",48485,TX,0,1421,56.85,0.78,1.55,85.78,1.2,38.167,3240.8,1.987,14.22,Larger county (100k+),48485,Wichita County,Yes,High Medicaid only,Q4 (highest),Q1 (lowest)
+"Will County, IL",17197,IL,0,6684,31.43,0.63,1.0,79.31,3.51,38.209,3256.4,1.962,20.69,Larger county (100k+),17197,Will County,Yes,Neither,Q2,Q2
+"Williamson County, TN",47187,TN,0,2194,11.21,4.92,0.5,87.47,2.01,38.495,3371.3,1.771,12.53,Larger county (100k+),47187,Williamson County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Williamson County, TX",48491,TX,0,9264,21.42,3.6,4.98,77.32,2.81,38.353,3259.2,1.963,22.68,Larger county (100k+),48491,Williamson County,Yes,Neither,Q1 (lowest),Q3
+"Wilson County, TN",47189,TN,0,1967,27.66,1.83,0.66,83.63,3.56,38.293,3294.0,2.071,16.37,Larger county (100k+),47189,Wilson County,Yes,Neither,Q1 (lowest),Q2
+"Windham County, CT",9015,CT,0,925,43.68,1.08,,90.92,,38.299,3248.3,2.244,9.08,Larger county (100k+),09015,Windham County,Yes,Neither,Q3,Q1 (lowest)
+"Winnebago County, IL",17201,IL,0,3052,55.77,0.92,0.69,81.45,3.8,38.077,3202.0,2.167,18.55,Larger county (100k+),17201,Winnebago County,Yes,High Medicaid only,Q4 (highest),Q2
+"Winnebago County, WI",55139,WI,0,1587,30.73,1.27,,88.32,2.35,38.472,3299.8,1.973,11.68,Larger county (100k+),55139,Winnebago County,Yes,Neither,Q2,Q1 (lowest)
+"Wood County, OH",39173,OH,0,1134,27.43,,,89.51,0.88,38.278,3320.7,1.888,10.49,Larger county (100k+),39173,Wood County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Woodbury County, IA",19193,IA,0,1350,61.19,,1.63,73.7,5.41,38.006,3216.5,2.085,26.3,Larger county (100k+),19193,Woodbury County,Yes,High Medicaid only,Q4 (highest),Q3
+"Worcester County, MA",25027,MA,0,8476,34.85,0.33,0.6,83.66,3.87,38.448,3268.1,2.13,16.34,Larger county (100k+),25027,Worcester County,Yes,Neither,Q2,Q2
+"Wright County, MN",27171,MN,0,1801,19.27,3.94,,86.12,0.56,38.604,3412.6,1.665,13.88,Larger county (100k+),27171,Wright County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"Wyandotte County, KS",20209,KS,0,2232,48.11,12.68,4.17,69.58,2.91,38.106,3195.5,2.265,30.42,Larger county (100k+),20209,Wyandotte County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
+"Yakima County, WA",53077,WA,0,3302,71.78,0.71,1.06,77.91,4.88,38.421,3303.6,1.994,22.09,Larger county (100k+),53077,Yakima County,Yes,High Medicaid only,Q4 (highest),Q3
+"Yavapai County, AZ",4025,AZ,0,1708,47.54,10.42,1.23,80.21,2.05,38.545,3247.8,1.983,19.79,Larger county (100k+),04025,Yavapai County,Yes,High Medicaid only,Q4 (highest),Q2
+"Yellowstone County, MT",30111,MT,0,1712,34.11,4.15,0.76,83.18,2.75,38.389,3273.9,2.069,16.82,Larger county (100k+),30111,Yellowstone County,Yes,Neither,Q2,Q2
+"Yolo County, CA",6113,CA,0,1739,39.85,,0.63,83.78,2.76,38.56,3326.7,2.214,16.22,Larger county (100k+),06113,Yolo County,Yes,Neither,Q3,Q2
+"York County, ME",23031,ME,0,1788,28.36,2.57,,86.19,2.85,38.455,3310.5,1.979,13.81,Larger county (100k+),23031,York County,Yes,Neither,Q1 (lowest),Q1 (lowest)
+"York County, PA",42133,PA,0,4729,36.05,4.97,,81.71,3.06,38.409,3266.8,2.154,18.29,Larger county (100k+),42133,York County,Yes,Neither,Q2,Q2
+"York County, SC",45091,SC,0,2946,29.19,8.89,2.61,79.46,2.55,38.32,3267.0,1.957,20.54,Larger county (100k+),45091,York County,Yes,Neither,Q1 (lowest),Q2
+"Yuma County, AZ",4027,AZ,0,2691,59.79,3.57,6.09,64.55,8.36,38.354,3307.9,2.216,35.45,Larger county (100k+),04027,Yuma County,Yes,High Medicaid + low early care,Q4 (highest),Q4 (highest)
