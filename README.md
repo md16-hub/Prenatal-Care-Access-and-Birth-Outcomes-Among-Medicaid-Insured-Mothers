@@ -24,7 +24,7 @@ Data: CDC WONDER Natality, 2024 Tools: Python (pandas, numpy, scipy, matplotlib)
 - In the same county, Medicaid births are 89 g lighter than private births (true in 97% of counties).
 - Looking only at births with early care, the gap is still about 84 g.
 
-![Dashboard 2](dashboards/geography.png)
+![Dashboard 2](dashboards/medicaid_vs_private_gap.png)
 
 ---
  
@@ -34,8 +34,7 @@ Data: CDC WONDER Natality, 2024 Tools: Python (pandas, numpy, scipy, matplotlib)
 - Most of the county pattern is differences between states. Within a state, the early-care effect is small and not significant.
 - Medicaid-heavy counties stay lighter even inside the same state (43 g gap).
 
-![Dashboard 2](dashboards/medicaid_vs_private_gap.png)
-
+![Dashboard 3](dashboards/geography.png)
 
 ## Unexpected Insights
 - **Self-pay is a puzzle.** Self-pay births have the highest no-care rate (44.5%) but the best birth weight and gestation averages of any payer. Nothing in the file explains it.
